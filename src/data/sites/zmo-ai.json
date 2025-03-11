@@ -1,0 +1,25 @@
+{
+  "name": "ZMO.ai",
+  "url": "https://zmo.ai",
+  "category_id": "ai-fashion-design",
+  "features": [
+    "On-model clothing generation",
+    "Diverse model selection",
+    "Cost-effective visualization",
+    "High-quality output"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "ZMO.ai generates high-quality on-model clothing images, reducing traditional photoshoot needs while emphasizing diversity and inclusivity in fashion visualization.",
+  "pros": [
+    "Cost-effective solution",
+    "Diverse model options",
+    "High-quality images",
+    "Quick turnaround"
+  ],
+  "cons": [
+    "Limited free tier",
+    "Some pose restrictions",
+    "Premium features costly"
+  ]
+}

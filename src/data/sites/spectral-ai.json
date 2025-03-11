@@ -1,0 +1,25 @@
+{
+  "name": "Spectral AI",
+  "url": "https://spectral.ai",
+  "category_id": "ai-healthcare",
+  "features": [
+    "Medical diagnostics",
+    "Early disease detection",
+    "Personalized care",
+    "Data processing"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Spectral AI leverages artificial intelligence to enhance medical diagnostics, enabling early disease detection and personalized patient care through advanced data processing algorithms.",
+  "pros": [
+    "Early detection capabilities",
+    "Personalized diagnostics",
+    "Comprehensive analysis",
+    "Healthcare integration"
+  ],
+  "cons": [
+    "Custom pricing model",
+    "Technical expertise needed",
+    "Implementation complexity"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Reface",
+  "url": "https://reface.app",
+  "category_id": "ai-face-swapping",
+  "features": [
+    "Video face swapping",
+    "GIF creation",
+    "Mobile optimization",
+    "Social sharing"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "Reface specializes in video face swapping and GIF creation with smooth, believable results, available on both iOS and Android platforms for mobile content creation.",
+  "pros": [
+    "Mobile-first design",
+    "Easy social sharing",
+    "Quick processing",
+    "Good result quality"
+  ],
+  "cons": [
+    "Limited free usage",
+    "Mobile only",
+    "Watermark on free tier"
+  ]
+}

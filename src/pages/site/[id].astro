@@ -1,0 +1,101 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import RatingDisplay from '../../components/RatingDisplay.astro';
+import ReviewCard from '../../components/ReviewCard.astro';
+import { categories, sites } from '../../data/categories';
+
+export function getStaticPaths() {
+  return sites.map(site => ({
+    params: { id: site.name.toLowerCase().replace(/\s+/g, '-') },
+    props: { site }
+  }));
+}
+
+const { site } = Astro.props;
+const category = categories.find(c => c.id === site.category_id);
+---
+
+<Layout title={`${site.name} - AI Tools Catalog`}>
+  <div class="max-w-4xl mx-auto">
+    <a href={`/category/${site.category_id}`} class="text-purple-400 hover:text-purple-300 mb-4 inline-block">
+      ← Back to {category?.name}
+    </a>
+
+    <div class="bg-dark-card rounded-xl p-8 mb-8 border border-gray-800">
+      <div class="flex justify-between items-start mb-6">
+        <div>
+          <h1 class="text-4xl font-bold mb-2">{site.name}</h1>
+          {site.rating && (
+            <div class="flex items-center gap-4">
+              <RatingDisplay rating={site.rating} />
+              <span class="text-purple-400 px-3 py-1 rounded-full border border-purple-400">
+                {site.pricing}
+              </span>
+            </div>
+          )}
+        </div>
+        <a 
+          href={site.url} 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          class="bg-purple-600 text-white px-6 py-3 rounded-lg hover:bg-purple-700 transition-colors"
+        >
+          Visit Site
+        </a>
+      </div>
+
+      {site.description && <p class="text-gray-300 mb-8">{site.description}</p>}
+
+      {(site.pros || site.cons) && (
+        <div class="grid md:grid-cols-2 gap-8 mb-8">
+          {site.pros && (
+            <div>
+              <h2 class="text-xl font-semibold mb-4">Pros</h2>
+              <ul class="space-y-2">
+                {site.pros.map(pro => (
+                  <li class="flex items-center text-green-400">
+                    <span class="mr-2">✓</span> {pro}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+          {site.cons && (
+            <div>
+              <h2 class="text-xl font-semibold mb-4">Cons</h2>
+              <ul class="space-y-2">
+                {site.cons.map(con => (
+                  <li class="flex items-center text-red-400">
+                    <span class="mr-2">✗</span> {con}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+      )}
+
+      <div class="mb-8">
+        <h2 class="text-xl font-semibold mb-4">Features</h2>
+        <ul class="grid md:grid-cols-2 gap-2">
+          {site.features.map(feature => (
+            <li class="flex items-center text-gray-300">
+              <span class="mr-2 text-purple-400">•</span> {feature}
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    {site.reviews && (
+      <div class="mb-8">
+        <h2 class="text-2xl font-bold mb-6">Reviews</h2>
+        <div class="space-y-4">
+          {site.reviews.map(review => (
+            <ReviewCard review={review} />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Layout>

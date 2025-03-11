@@ -1,0 +1,25 @@
+{
+  "name": "Artguru",
+  "url": "https://artguru.ai",
+  "category_id": "ai-character-creation",
+  "features": [
+    "Free character generation",
+    "Multiple art styles",
+    "Facial customization",
+    "Pose and clothing options"
+  ],
+  "pricing": "Free",
+  "rating": 4.4,
+  "description": "Artguru offers a free AI character generator supporting various styles including anime, 3D, and fantasy, with extensive customization options for facial features, clothing, and poses.",
+  "pros": [
+    "Completely free",
+    "Multiple style support",
+    "Good customization options",
+    "Easy to use"
+  ],
+  "cons": [
+    "Basic animation features",
+    "Limited export formats",
+    "Some style inconsistencies"
+  ]
+}

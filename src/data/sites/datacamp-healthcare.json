@@ -1,0 +1,25 @@
+{
+  "name": "DataCamp Healthcare AI",
+  "url": "https://www.datacamp.com/healthcare-ai",
+  "category_id": "ai-healthcare",
+  "features": [
+    "Medical data interpretation",
+    "Diagnostic assistance",
+    "Operational optimization",
+    "Clinical analytics"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.6,
+  "description": "DataCamp's healthcare AI systems interpret complex medical data, improve diagnostic accuracy, enhance patient care, and streamline operational processes across radiology, pathology, and cardiology.",
+  "pros": [
+    "Comprehensive analytics",
+    "Multi-specialty support",
+    "Operational efficiency",
+    "Educational resources"
+  ],
+  "cons": [
+    "Subscription costs",
+    "Learning curve",
+    "Integration complexity"
+  ]
+}

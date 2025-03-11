@@ -1,0 +1,25 @@
+{
+  "name": "Harvey AI",
+  "url": "https://www.harvey.ai",
+  "category_id": "ai-legal",
+  "features": [
+    "Contract summarization",
+    "Document automation",
+    "Due diligence",
+    "Regulatory compliance"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Harvey AI is a generative AI platform designed for legal teams, offering features for contract analysis, document automation, due diligence, and regulatory compliance through natural language prompts.",
+  "pros": [
+    "Natural language interface",
+    "Comprehensive legal tools",
+    "Good compliance features",
+    "Efficient automation"
+  ],
+  "cons": [
+    "Custom pricing only",
+    "Setup complexity",
+    "Technical expertise needed"
+  ]
+}

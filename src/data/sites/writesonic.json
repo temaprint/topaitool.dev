@@ -1,0 +1,25 @@
+{
+  "name": "Writesonic",
+  "url": "https://writesonic.com",
+  "category_id": "ai-text-generation",
+  "features": [
+    "SEO-friendly content",
+    "Multi-language support",
+    "Blog writing",
+    "Email marketing"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Writesonic focuses on creating SEO-friendly content for blogs, emails, and ads, supporting over 30 languages and including powerful editing tools for content refinement.",
+  "pros": [
+    "Strong SEO focus",
+    "Extensive language support",
+    "Good editing tools",
+    "Marketing-oriented features"
+  ],
+  "cons": [
+    "Word limit on free tier",
+    "Quality varies by language",
+    "Complex pricing structure"
+  ]
+}

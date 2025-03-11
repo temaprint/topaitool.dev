@@ -1,0 +1,25 @@
+{
+  "name": "Aqua Security",
+  "url": "https://www.aquasec.com",
+  "category_id": "ai-cybersecurity",
+  "features": [
+    "Cloud environment security",
+    "Authentication monitoring",
+    "Phishing detection",
+    "Vulnerability analysis"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Aqua Security provides AI-based threat detection tailored for cloud environments, using machine learning to identify patterns in authentication logs and detect phishing attempts.",
+  "pros": [
+    "Cloud-native security",
+    "Comprehensive monitoring",
+    "Strong vulnerability detection",
+    "Good cloud integration"
+  ],
+  "cons": [
+    "Custom pricing model",
+    "Setup complexity",
+    "Learning curve"
+  ]
+}

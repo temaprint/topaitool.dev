@@ -1,0 +1,25 @@
+{
+  "name": "Stock Market Predictor AI",
+  "url": "https://stockmarketpredictor.ai",
+  "category_id": "ai-finance",
+  "features": [
+    "Price forecasting",
+    "Historical analysis",
+    "Range predictions",
+    "Data-driven insights"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.5,
+  "description": "Stock Market Predictor AI analyzes past market data to forecast future stock prices, offering users a precise range of potential stock values based on historical trends.",
+  "pros": [
+    "Accurate range predictions",
+    "Historical data analysis",
+    "User-friendly interface",
+    "Regular updates"
+  ],
+  "cons": [
+    "Subscription required",
+    "Limited technical analysis",
+    "Basic charting tools"
+  ]
+}

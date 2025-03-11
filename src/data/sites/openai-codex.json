@@ -1,0 +1,25 @@
+{
+  "name": "OpenAI Codex",
+  "url": "https://openai.com/blog/openai-codex",
+  "category_id": "ai-code-generation",
+  "features": [
+    "Code generation",
+    "Language translation",
+    "ChatGPT integration",
+    "Multi-language support"
+  ],
+  "pricing": "API-based",
+  "rating": 4.7,
+  "description": "OpenAI Codex is a versatile AI system capable of generating, translating, and completing code in over 12 programming languages, with seamless integration into platforms like ChatGPT.",
+  "pros": [
+    "Powerful code generation",
+    "Multiple language support",
+    "Natural language understanding",
+    "API flexibility"
+  ],
+  "cons": [
+    "API costs can be high",
+    "Requires technical setup",
+    "Rate limitations"
+  ]
+}

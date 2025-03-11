@@ -1,0 +1,34 @@
+{
+  "name": "Runway ML",
+  "url": "https://runwayml.com",
+  "category_id": "ai-film",
+  "features": ["AI video editing", "Text-to-video", "Style transfer"],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author": "John D.",
+      "rating": 5,
+      "text": "Incredible tool for video editing. The AI features are revolutionary.",
+      "date": "2024-01-15"
+    },
+    {
+      "author": "Sarah M.",
+      "rating": 4,
+      "text": "Great for quick edits, though the learning curve can be steep.",
+      "date": "2024-01-10"
+    }
+  ],
+  "description": "Runway ML is a powerful AI-powered creative suite that revolutionizes video editing and content creation. With its intuitive interface and advanced AI capabilities, it enables creators to produce high-quality content efficiently.",
+  "pros": [
+    "Intuitive interface",
+    "Powerful AI features",
+    "Regular updates",
+    "Good community support"
+  ],
+  "cons": [
+    "Premium features can be expensive",
+    "Requires good hardware",
+    "Learning curve for advanced features"
+  ]
+}

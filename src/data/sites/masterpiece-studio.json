@@ -1,0 +1,25 @@
+{
+  "name": "Masterpiece Studio",
+  "url": "https://masterpiecestudio.com",
+  "category_id": "ai-3d-generation",
+  "features": [
+    "Complete 3D suite",
+    "AI-assisted modeling",
+    "Animation tools",
+    "Indie-friendly"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.4,
+  "description": "Masterpiece Studio offers a comprehensive suite for indie creators, combining AI-powered 3D modeling, animation, and rendering tools optimized for small studios and independent artists.",
+  "pros": [
+    "All-in-one solution",
+    "Indie creator focus",
+    "Good learning resources",
+    "Regular updates"
+  ],
+  "cons": [
+    "Monthly subscription cost",
+    "Hardware requirements",
+    "Limited advanced features"
+  ]
+}

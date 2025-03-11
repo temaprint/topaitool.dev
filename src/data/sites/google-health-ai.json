@@ -1,0 +1,25 @@
+{
+  "name": "Google Health AI",
+  "url": "https://health.google/health-ai",
+  "category_id": "ai-healthcare",
+  "features": [
+    "Disease detection",
+    "Diagnostic imaging",
+    "Clinical decision support",
+    "Deep learning analysis"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.8,
+  "description": "Google Health AI enhances disease detection and improves diagnostic imaging through deep learning techniques, helping clinicians analyze diverse medical datasets for accurate diagnoses.",
+  "pros": [
+    "Advanced imaging analysis",
+    "Clinical validation",
+    "Extensive research backing",
+    "Integration capabilities"
+  ],
+  "cons": [
+    "Enterprise-only access",
+    "Complex implementation",
+    "Requires specialized training"
+  ]
+}

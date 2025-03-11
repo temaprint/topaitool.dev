@@ -1,0 +1,25 @@
+{
+  "name": "NVIDIA DRIVE",
+  "url": "https://www.nvidia.com/en-us/self-driving-cars",
+  "category_id": "ai-automotive",
+  "features": [
+    "AI-powered perception",
+    "Edge computing",
+    "Simulation platform",
+    "Development tools"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "NVIDIA DRIVE provides a complete platform for developing and testing autonomous vehicle systems, featuring powerful AI computing, simulation capabilities, and comprehensive development tools.",
+  "pros": [
+    "Comprehensive platform",
+    "Powerful computing",
+    "Extensive simulation",
+    "Developer support"
+  ],
+  "cons": [
+    "High hardware requirements",
+    "Complex development",
+    "Significant investment"
+  ]
+}

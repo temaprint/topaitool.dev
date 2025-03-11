@@ -1,0 +1,25 @@
+{
+  "name": "Trade Ideas",
+  "url": "https://www.trade-ideas.com",
+  "category_id": "ai-finance",
+  "features": [
+    "Real-time analysis",
+    "Trade identification",
+    "Custom strategies",
+    "Market scanning"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.8,
+  "description": "Trade Ideas is an AI-powered trading platform that identifies profitable trades by analyzing vast amounts of data in real-time, offering customizable strategies and alerts.",
+  "pros": [
+    "Advanced scanning",
+    "Real-time analysis",
+    "Strategy automation",
+    "Professional tools"
+  ],
+  "cons": [
+    "High subscription cost",
+    "Steep learning curve",
+    "Complex interface"
+  ]
+}

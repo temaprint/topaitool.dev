@@ -1,0 +1,25 @@
+{
+  "name": "Boomy",
+  "url": "https://boomy.com",
+  "category_id": "ai-music",
+  "features": [
+    "Instant music creation",
+    "Trend-based composition",
+    "Multiple genres",
+    "Quick customization"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.4,
+  "description": "Boomy uses AI to quickly compose and produce songs tailored to user preferences and current trends, making music creation accessible to everyone.",
+  "pros": [
+    "Fast generation speed",
+    "User-friendly interface",
+    "Modern sound options",
+    "Good for beginners"
+  ],
+  "cons": [
+    "Limited advanced controls",
+    "Basic editing features",
+    "Quality varies by genre"
+  ]
+}

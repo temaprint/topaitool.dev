@@ -1,0 +1,25 @@
+{
+  "name": "Dataiku",
+  "url": "https://www.dataiku.com",
+  "category_id": "ai-data-analysis",
+  "features": [
+    "Predictive analytics",
+    "MLOps tools",
+    "Open-source integration",
+    "Collaborative platform"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Dataiku is a centralized platform offering predictive analytics, MLOps tools, and easy integration of open-source models, ideal for small teams exploring AI-powered analytics solutions.",
+  "pros": [
+    "Comprehensive analytics suite",
+    "Good collaboration features",
+    "Visual workflow design",
+    "Strong documentation"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Setup complexity",
+    "Resource intensive"
+  ]
+}

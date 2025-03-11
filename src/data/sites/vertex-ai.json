@@ -1,0 +1,25 @@
+{
+  "name": "Google Cloud Vertex AI",
+  "url": "https://cloud.google.com/vertex-ai",
+  "category_id": "ai-data-analysis",
+  "features": [
+    "AutoML capabilities",
+    "Pre-trained models",
+    "Natural language processing",
+    "Enterprise ML tools"
+  ],
+  "pricing": "Usage-based",
+  "rating": 4.8,
+  "description": "Google Cloud Vertex AI provides comprehensive machine learning tools, including AutoML for training algorithms, pre-trained models like Gemini, and advanced natural language processing capabilities.",
+  "pros": [
+    "Enterprise-grade ML platform",
+    "Extensive model options",
+    "Good scalability",
+    "Strong documentation"
+  ],
+  "cons": [
+    "Complex setup",
+    "Technical expertise required",
+    "Usage costs can be high"
+  ]
+}

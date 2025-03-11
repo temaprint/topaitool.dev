@@ -1,0 +1,25 @@
+{
+  "name": "Knewton",
+  "url": "https://www.knewton.com",
+  "category_id": "ai-education",
+  "features": [
+    "Adaptive study plans",
+    "Strength analysis",
+    "Digital tutoring",
+    "Content personalization"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.5,
+  "description": "Knewton provides personalized study plans by analyzing student strengths and weaknesses, acting as a digital tutor that adapts content dynamically to make learning more engaging and effective.",
+  "pros": [
+    "Smart content adaptation",
+    "Detailed analytics",
+    "Multiple subject support",
+    "Engaging interface"
+  ],
+  "cons": [
+    "Subscription costs",
+    "Learning curve",
+    "Internet dependency"
+  ]
+}

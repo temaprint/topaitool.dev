@@ -1,0 +1,25 @@
+{
+  "name": "Boston Dynamics Spot",
+  "url": "https://www.bostondynamics.com/products/spot",
+  "category_id": "ai-robotics",
+  "features": [
+    "Autonomous navigation",
+    "Dynamic obstacle avoidance",
+    "Remote operation",
+    "Customizable payloads"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.9,
+  "description": "Boston Dynamics Spot is an agile mobile robot that combines AI-powered navigation with advanced mobility for autonomous inspection, data collection, and industrial tasks.",
+  "pros": [
+    "Advanced mobility",
+    "Versatile applications",
+    "Robust construction",
+    "Regular updates"
+  ],
+  "cons": [
+    "High investment cost",
+    "Complex deployment",
+    "Specialized maintenance"
+  ]
+}

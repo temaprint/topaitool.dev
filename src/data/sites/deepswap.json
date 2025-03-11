@@ -1,0 +1,25 @@
+{
+  "name": "Deepswap",
+  "url": "https://deepswap.ai",
+  "category_id": "ai-face-swapping",
+  "features": [
+    "Quick face swapping",
+    "High-quality output",
+    "Multiple format support",
+    "Online processing"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Deepswap is an online platform for creating high-quality face swaps in photos and videos quickly and easily, with support for multiple input formats and resolutions.",
+  "pros": [
+    "Fast processing speed",
+    "Good output quality",
+    "Easy to use interface",
+    "Multiple format support"
+  ],
+  "cons": [
+    "Usage limits on free tier",
+    "Online-only processing",
+    "Premium features cost extra"
+  ]
+}

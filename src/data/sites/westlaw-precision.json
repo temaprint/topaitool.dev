@@ -1,0 +1,25 @@
+{
+  "name": "Westlaw Precision",
+  "url": "https://legal.thomsonreuters.com/en/products/westlaw-precision",
+  "category_id": "ai-legal",
+  "features": [
+    "Generative AI legal research",
+    "Case summarization",
+    "Document drafting",
+    "Multi-jurisdictional analysis"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.8,
+  "description": "Westlaw Precision leverages generative AI to provide real-time answers to complex legal queries, offering tools like CoCounsel for drafting and analyzing legal documents across multiple jurisdictions.",
+  "pros": [
+    "Comprehensive legal database",
+    "Advanced AI-powered research",
+    "Multi-jurisdiction support",
+    "Accurate citations"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Complex interface",
+    "Requires training"
+  ]
+}

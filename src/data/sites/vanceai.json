@@ -1,0 +1,25 @@
+{
+  "name": "VanceAI Face Generator",
+  "url": "https://vanceai.com/face-generator",
+  "category_id": "ai-human-faces",
+  "features": [
+    "Versatile face generation",
+    "Style customization",
+    "Game character creation",
+    "Virtual avatar support"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.3,
+  "description": "VanceAI Face Generator offers versatile face generation with extensive parameter customization and artistic style options, perfect for creating game characters and virtual avatars.",
+  "pros": [
+    "Flexible customization",
+    "Gaming-focused features",
+    "Good avatar creation",
+    "Multiple export options"
+  ],
+  "cons": [
+    "Limited free generations",
+    "Advanced features are premium",
+    "Style consistency issues"
+  ]
+}

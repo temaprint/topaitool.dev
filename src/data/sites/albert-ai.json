@@ -1,0 +1,25 @@
+{
+  "name": "Albert.ai",
+  "url": "https://albert.ai",
+  "category_id": "ai-marketing",
+  "features": [
+    "Digital ad optimization",
+    "Keyword research automation",
+    "Campaign management",
+    "Cross-channel optimization"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Albert.ai is a self-optimizing platform for digital advertising that automates tasks like keyword research, ad spend optimization, and audience engagement across multiple channels.",
+  "pros": [
+    "Autonomous campaign optimization",
+    "Cross-channel management",
+    "Data-driven decisions",
+    "Continuous learning"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Complex initial setup",
+    "Requires significant ad spend"
+  ]
+}

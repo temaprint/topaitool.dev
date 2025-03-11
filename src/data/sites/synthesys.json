@@ -1,0 +1,25 @@
+{
+  "name": "Synthesys",
+  "url": "https://synthesys.io",
+  "category_id": "ai-voice-generation",
+  "features": [
+    "300+ AI voices",
+    "140+ languages",
+    "Voice cloning",
+    "Video voiceovers"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.6,
+  "description": "Synthesys features over 300 voices in 140+ languages, specializing in voice cloning and video voiceover creation for various content types including audiobooks and animations.",
+  "pros": [
+    "Large voice selection",
+    "Extensive language support",
+    "Professional voiceovers",
+    "Good for video content"
+  ],
+  "cons": [
+    "No free tier",
+    "Complex pricing",
+    "Learning curve"
+  ]
+}

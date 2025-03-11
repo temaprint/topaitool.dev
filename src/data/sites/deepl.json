@@ -1,0 +1,25 @@
+{
+  "name": "DeepL",
+  "url": "https://www.deepl.com",
+  "category_id": "ai-translation",
+  "features": [
+    "Context-aware translation",
+    "Custom glossaries",
+    "31+ languages",
+    "API integration"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.9,
+  "description": "DeepL provides nuanced and context-aware translations across 31 languages, with features like custom glossaries and API integration for maintaining consistency in professional translations.",
+  "pros": [
+    "Superior translation quality",
+    "Context understanding",
+    "Professional features",
+    "API availability"
+  ],
+  "cons": [
+    "Limited free tier",
+    "Fewer languages than competitors",
+    "Enterprise features are premium"
+  ]
+}

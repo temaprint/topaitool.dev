@@ -1,0 +1,25 @@
+{
+  "name": "Synthesia",
+  "url": "https://www.synthesia.io",
+  "category_id": "ai-film",
+  "features": [
+    "AI video creation from text",
+    "Customizable templates",
+    "AI avatars",
+    "Multilingual voiceovers"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.7,
+  "description": "Synthesia is a powerful AI video creation platform that transforms text into professional videos with customizable avatars and multilingual support.",
+  "pros": [
+    "Easy-to-use interface",
+    "High-quality AI avatars",
+    "Multiple language support",
+    "Professional templates"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Higher-tier features are expensive",
+    "Some avatars can look artificial"
+  ]
+}

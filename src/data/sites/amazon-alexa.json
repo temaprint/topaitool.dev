@@ -1,0 +1,25 @@
+{
+  "name": "Amazon Alexa",
+  "url": "https://alexa.amazon.com",
+  "category_id": "ai-virtual-assistants",
+  "features": [
+    "Smart home automation",
+    "Voice shopping",
+    "Task scheduling",
+    "Entertainment control"
+  ],
+  "pricing": "Free",
+  "rating": 4.7,
+  "description": "Amazon Alexa excels in smart home control, task management, and shopping automation, offering seamless integration with Amazon services and IoT devices.",
+  "pros": [
+    "Strong smart home ecosystem",
+    "Amazon shopping integration",
+    "Wide device compatibility",
+    "Regular feature updates"
+  ],
+  "cons": [
+    "Amazon account required",
+    "Privacy concerns",
+    "Some skills are premium"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Incite AI",
+  "url": "https://incite.ai",
+  "category_id": "ai-finance",
+  "features": [
+    "Real-time market analysis",
+    "Stock price predictions",
+    "Sentiment analysis",
+    "Historical data analysis"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.7,
+  "description": "Incite AI provides real-time stock market analysis and predictions using machine learning algorithms, analyzing historical data, market trends, and sentiment for accurate stock forecasts.",
+  "pros": [
+    "Real-time analysis",
+    "User-friendly interface",
+    "Accurate predictions",
+    "Comprehensive data coverage"
+  ],
+  "cons": [
+    "Premium pricing",
+    "Learning curve",
+    "Market volatility impact"
+  ]
+}

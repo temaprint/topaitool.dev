@@ -1,0 +1,25 @@
+{
+  "name": "Universal Robots+",
+  "url": "https://www.universal-robots.com/plus",
+  "category_id": "ai-robotics",
+  "features": [
+    "Collaborative robot control",
+    "AI-powered motion planning",
+    "Real-time adaptation",
+    "Safety integration"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.8,
+  "description": "Universal Robots+ combines collaborative robotics with AI for advanced motion planning, real-time adaptation, and seamless human-robot collaboration in manufacturing environments.",
+  "pros": [
+    "Advanced collaboration features",
+    "Intuitive programming",
+    "Strong safety systems",
+    "Flexible deployment"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Training required",
+    "Complex integration"
+  ]
+}

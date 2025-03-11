@@ -1,0 +1,25 @@
+{
+  "name": "AIVA",
+  "url": "https://www.aiva.ai",
+  "category_id": "ai-music",
+  "features": [
+    "AI-composed orchestral music",
+    "Style customization",
+    "Mood-based composition",
+    "Professional scoring"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.7,
+  "description": "AIVA (Artificial Intelligence Virtual Artist) is a powerful AI composer that creates original orchestral compositions based on user-defined styles and moods, perfect for musicians and content creators.",
+  "pros": [
+    "High-quality orchestral compositions",
+    "Extensive style options",
+    "Professional-grade output",
+    "Intuitive interface"
+  ],
+  "cons": [
+    "Advanced features require subscription",
+    "Limited genre variety",
+    "Processing time for complex pieces"
+  ]
+}

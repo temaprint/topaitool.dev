@@ -1,0 +1,25 @@
+{
+  "name": "Tabnine",
+  "url": "https://www.tabnine.com",
+  "category_id": "ai-code-generation",
+  "features": [
+    "AI code completion",
+    "IDE integration",
+    "Team collaboration",
+    "Local processing option"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "Tabnine is a deep learning-based code completion tool that provides intelligent suggestions across multiple programming languages, with seamless integration into popular IDEs.",
+  "pros": [
+    "Strong IDE integration",
+    "Local processing available",
+    "Good team features",
+    "Privacy focused"
+  ],
+  "cons": [
+    "Advanced features need subscription",
+    "Can be resource intensive",
+    "Some language limitations"
+  ]
+}

@@ -1,0 +1,35 @@
+---
+interface Props {
+  review: {
+    author: string;
+    rating: number;
+    text: string;
+    date: string;
+  };
+}
+
+const { review } = Astro.props;
+
+function formatDate(dateString: string) {
+  return new Date(dateString).toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+}
+
+function renderStars(rating: number) {
+  return '★'.repeat(Math.floor(rating)) + '☆'.repeat(5 - Math.floor(rating));
+}
+---
+
+<div class="bg-dark-card rounded-lg p-6 border border-gray-800">
+  <div class="flex items-start justify-between mb-4">
+    <div>
+      <h3 class="font-semibold text-white">{review.author}</h3>
+      <div class="text-yellow-400 mt-1">{renderStars(review.rating)}</div>
+    </div>
+    <span class="text-gray-400 text-sm">{formatDate(review.date)}</span>
+  </div>
+  <p class="text-gray-300">{review.text}</p>
+</div>

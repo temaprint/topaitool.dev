@@ -1,0 +1,25 @@
+{
+  "name": "Paxton AI",
+  "url": "https://www.paxton.ai",
+  "category_id": "ai-legal",
+  "features": [
+    "Legal research",
+    "Contract review",
+    "Document drafting",
+    "U.S. law coverage"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.5,
+  "description": "Paxton AI provides generative AI tools for legal research, contract review, and document drafting, with comprehensive coverage of caselaw, statutes, and regulations across all U.S. states.",
+  "pros": [
+    "U.S. law coverage",
+    "Contract analysis",
+    "Document automation",
+    "Research assistance"
+  ],
+  "cons": [
+    "U.S. focus only",
+    "New platform",
+    "Limited integrations"
+  ]
+}

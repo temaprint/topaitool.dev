@@ -1,0 +1,25 @@
+{
+  "name": "Murf.ai",
+  "url": "https://murf.ai",
+  "category_id": "ai-voice-generation",
+  "features": [
+    "120+ lifelike voices",
+    "20+ languages and accents",
+    "Voice cloning",
+    "Multimedia sync"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.7,
+  "description": "Murf.ai offers over 120 lifelike voices in 20+ languages and accents, with advanced features like voice cloning and multimedia synchronization for professional voiceovers.",
+  "pros": [
+    "Extensive voice selection",
+    "High-quality output",
+    "Good language support",
+    "Professional features"
+  ],
+  "cons": [
+    "Advanced features are premium",
+    "Some accents need improvement",
+    "Usage limits on free tier"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Salesforce Marketing Cloud AI",
+  "url": "https://www.salesforce.com/products/marketing-cloud/overview",
+  "category_id": "ai-marketing",
+  "features": [
+    "Customer journey optimization",
+    "Predictive engagement",
+    "Cross-channel marketing",
+    "Einstein AI integration"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.7,
+  "description": "Salesforce Marketing Cloud AI uses Einstein AI to optimize customer journeys, predict engagement, and deliver personalized cross-channel marketing experiences.",
+  "pros": [
+    "Powerful AI capabilities",
+    "Cross-channel integration",
+    "Extensive automation",
+    "Deep analytics"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Complex implementation",
+    "Requires technical expertise"
+  ]
+}

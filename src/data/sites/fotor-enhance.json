@@ -1,0 +1,25 @@
+{
+  "name": "Fotor AI Photo Enhancer",
+  "url": "https://www.fotor.com/features/ai-photo-enhancer",
+  "category_id": "ai-photo-enhancement",
+  "features": [
+    "Automatic photo editing",
+    "Face retouching",
+    "Blur removal",
+    "Photo colorization"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.4,
+  "description": "Fotor AI Photo Enhancer provides automatic photo editing with features for face retouching, blur removal, and old photo restoration, including tools for colorizing black-and-white photos.",
+  "pros": [
+    "Automatic enhancement",
+    "Multiple editing tools",
+    "Good colorization",
+    "Batch processing"
+  ],
+  "cons": [
+    "Free tier limitations",
+    "Some inconsistent results",
+    "Basic manual controls"
+  ]
+}

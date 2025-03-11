@@ -1,0 +1,25 @@
+{
+  "name": "Swapface",
+  "url": "https://swapface.org",
+  "category_id": "ai-face-swapping",
+  "features": [
+    "Real-time face swapping",
+    "Local processing",
+    "Privacy focused",
+    "Live stream support"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.4,
+  "description": "Swapface offers real-time face swapping for live streams and pre-recorded videos, emphasizing privacy with local data processing and hyperrealistic results.",
+  "pros": [
+    "Real-time processing",
+    "Privacy protection",
+    "Good streaming integration",
+    "Local data handling"
+  ],
+  "cons": [
+    "Hardware dependent",
+    "Limited free features",
+    "Requires good internet for streams"
+  ]
+}

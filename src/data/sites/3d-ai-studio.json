@@ -1,0 +1,25 @@
+{
+  "name": "3D AI Studio",
+  "url": "https://3daistudio.com",
+  "category_id": "ai-3d-generation",
+  "features": [
+    "Text-to-3D generation",
+    "Image reference support",
+    "Rapid prototyping",
+    "Animation ready"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "3D AI Studio enables quick creation of custom 3D models from text prompts or image references, significantly reducing modeling time for prototyping and concept art.",
+  "pros": [
+    "Fast model generation",
+    "Multiple input methods",
+    "Good for prototyping",
+    "Animation-friendly output"
+  ],
+  "cons": [
+    "Limited free tier",
+    "Basic animation features",
+    "Some detail limitations"
+  ]
+}

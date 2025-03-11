@@ -1,0 +1,25 @@
+{
+  "name": "Lovo.ai",
+  "url": "https://lovo.ai",
+  "category_id": "ai-voice-generation",
+  "features": [
+    "Realistic voice synthesis",
+    "Voice cloning",
+    "40+ languages",
+    "Custom voice creation"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "Lovo.ai provides realistic text-to-speech conversion and voice cloning in over 40 languages, widely used for creating unique voiceovers in marketing, gaming, and e-learning.",
+  "pros": [
+    "Natural-sounding voices",
+    "Good language coverage",
+    "Easy to use",
+    "Versatile applications"
+  ],
+  "cons": [
+    "Some voices sound artificial",
+    "Limited free credits",
+    "Cloning requires subscription"
+  ]
+}

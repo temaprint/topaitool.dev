@@ -1,0 +1,25 @@
+{
+  "name": "Casetext CARA",
+  "url": "https://casetext.com/cara-ai",
+  "category_id": "ai-legal",
+  "features": [
+    "NLP-powered research",
+    "Brief analysis",
+    "Case recommendations",
+    "Time-saving automation"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.6,
+  "description": "Casetext CARA uses natural language processing for legal research and case analysis, providing contextual case recommendations and significantly reducing research time.",
+  "pros": [
+    "Contextual recommendations",
+    "Efficient research",
+    "User-friendly interface",
+    "Good automation"
+  ],
+  "cons": [
+    "Subscription required",
+    "Limited international coverage",
+    "Some features need refinement"
+  ]
+}

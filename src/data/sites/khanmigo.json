@@ -1,0 +1,25 @@
+{
+  "name": "Khanmigo",
+  "url": "https://www.khanacademy.org/khan-labs",
+  "category_id": "ai-education",
+  "features": [
+    "Personalized tutoring",
+    "Subject-specific guidance",
+    "Life skills development",
+    "Adaptive learning paths"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.8,
+  "description": "Khanmigo is Khan Academy's AI-powered tutor that provides personalized learning experiences across various subjects, from pre-K to college, adapting to individual learning needs.",
+  "pros": [
+    "Comprehensive subject coverage",
+    "Personalized learning approach",
+    "High-quality educational content",
+    "Regular content updates"
+  ],
+  "cons": [
+    "Subscription required",
+    "Internet connection needed",
+    "Limited offline access"
+  ]
+}

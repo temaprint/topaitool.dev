@@ -1,0 +1,25 @@
+{
+  "name": "HubSpot AI",
+  "url": "https://www.hubspot.com/ai",
+  "category_id": "ai-marketing",
+  "features": [
+    "Content optimization",
+    "Campaign automation",
+    "Predictive analytics",
+    "Personalized marketing"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.8,
+  "description": "HubSpot AI combines content optimization, campaign automation, and predictive analytics to deliver personalized marketing experiences and improve campaign performance.",
+  "pros": [
+    "Comprehensive marketing suite",
+    "Strong automation features",
+    "CRM integration",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Premium pricing",
+    "Feature complexity",
+    "Advanced tools need higher tiers"
+  ]
+}

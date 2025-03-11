@@ -1,0 +1,25 @@
+{
+  "name": "AscendixTech AI Valuation",
+  "url": "https://ascendix.com/real-estate-technology",
+  "category_id": "ai-real-estate",
+  "features": [
+    "Automated valuation models",
+    "Risk assessment",
+    "Custom AI solutions",
+    "Data analysis"
+  ],
+  "pricing": "Custom",
+  "rating": 4.6,
+  "description": "AscendixTech specializes in developing custom AI property valuation software using automated valuation models (AVMs), analyzing large datasets to predict property values and assess risks.",
+  "pros": [
+    "Customizable solutions",
+    "Comprehensive analysis",
+    "Scalable platform",
+    "Good data integration"
+  ],
+  "cons": [
+    "Custom pricing",
+    "Implementation time",
+    "Technical requirements"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Zillow Zestimate",
+  "url": "https://www.zillow.com/zestimate",
+  "category_id": "ai-real-estate",
+  "features": [
+    "Real-time valuations",
+    "Historical data analysis",
+    "Neighborhood insights",
+    "Property feature assessment"
+  ],
+  "pricing": "Free",
+  "rating": 4.6,
+  "description": "Zillow Zestimate utilizes machine learning algorithms to analyze historical sales data, neighborhood characteristics, and property features for accurate real-time property value estimates.",
+  "pros": [
+    "Free access",
+    "Real-time updates",
+    "Wide coverage",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Accuracy varies by location",
+    "Limited commercial properties",
+    "Basic feature set"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Tickeron",
+  "url": "https://tickeron.com",
+  "category_id": "ai-finance",
+  "features": [
+    "Trading signals",
+    "Performance prediction",
+    "Customizable strategies",
+    "Real-time alerts"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "Tickeron uses AI to generate trading signals and predict stock performance, providing customizable strategies and real-time alerts for trading opportunities.",
+  "pros": [
+    "Customizable strategies",
+    "Real-time notifications",
+    "Good signal accuracy",
+    "Educational resources"
+  ],
+  "cons": [
+    "Advanced features cost extra",
+    "Complex for beginners",
+    "Limited free tier"
+  ]
+}

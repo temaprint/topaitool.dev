@@ -1,0 +1,25 @@
+{
+  "name": "Waymo Driver",
+  "url": "https://waymo.com/waymo-driver",
+  "category_id": "ai-automotive",
+  "features": [
+    "360-degree perception",
+    "Real-time decision making",
+    "LiDAR integration",
+    "Advanced safety systems"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.8,
+  "description": "Waymo Driver is an advanced autonomous driving system that combines AI, LiDAR, and computer vision for comprehensive environmental perception and real-time decision-making.",
+  "pros": [
+    "Industry-leading safety",
+    "Advanced perception systems",
+    "Proven track record",
+    "Comprehensive testing"
+  ],
+  "cons": [
+    "Enterprise-only access",
+    "Complex integration",
+    "High implementation cost"
+  ]
+}

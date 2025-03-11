@@ -1,0 +1,25 @@
+{
+  "name": "Edmentum Exact Path",
+  "url": "https://www.edmentum.com/exact-path",
+  "category_id": "ai-education",
+  "features": [
+    "Adaptive assessments",
+    "Personalized learning paths",
+    "Progress monitoring",
+    "Targeted support"
+  ],
+  "pricing": "Custom",
+  "rating": 4.6,
+  "description": "Edmentum Exact Path combines adaptive assessments with personalized learning paths, ensuring students receive targeted support based on their unique academic needs and progress.",
+  "pros": [
+    "Comprehensive assessment system",
+    "Individual learning paths",
+    "Detailed progress tracking",
+    "Multi-subject support"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Setup complexity",
+    "Requires staff training"
+  ]
+}

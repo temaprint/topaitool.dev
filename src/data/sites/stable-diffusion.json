@@ -1,0 +1,20 @@
+{
+  "name": "Stable Diffusion",
+  "url": "https://stablediffusionweb.com",
+  "category_id": "ai-image-generation",
+  "features": ["Text-to-image AI", "Custom models"],
+  "pricing": "Free",
+  "rating": 4.6,
+  "description": "Stable Diffusion is an open-source text-to-image model that allows users to generate high-quality images from text descriptions.",
+  "pros": [
+    "Open-source and free",
+    "Local installation possible",
+    "Active community",
+    "Customizable models"
+  ],
+  "cons": [
+    "Requires technical knowledge for local setup",
+    "Can be resource-intensive",
+    "Results vary by model quality"
+  ]
+}

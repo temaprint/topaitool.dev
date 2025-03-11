@@ -1,0 +1,25 @@
+{
+  "name": "The New Black",
+  "url": "https://thenewblack.ai",
+  "category_id": "ai-fashion-design",
+  "features": [
+    "Rapid design generation",
+    "Multiple category support",
+    "Image enhancement",
+    "Custom styling"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.7,
+  "description": "The New Black transforms concepts into unique fashion designs within seconds, supporting various categories like sneakers and wedding dresses while offering high-definition image enhancement.",
+  "pros": [
+    "Fast design generation",
+    "Wide category coverage",
+    "High-quality output",
+    "Versatile customization"
+  ],
+  "cons": [
+    "Premium pricing",
+    "Learning curve",
+    "Some category limitations"
+  ]
+}

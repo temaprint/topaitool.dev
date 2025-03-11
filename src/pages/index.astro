@@ -1,0 +1,21 @@
+---
+import Layout from '../layouts/Layout.astro';
+import CategoryCard from '../components/CategoryCard.astro';
+import { categories } from '../data/categories';
+---
+
+<Layout title="AI Tools Catalog">
+  <div class="text-center mb-12">
+    <h1 class="text-4xl font-bold mb-4">
+      <span class="text-5xl">🤖</span> Discover AI Tools
+    </h1>
+    <p class="text-gray-400 text-lg">Explore the best AI-powered tools for creators and developers</p>
+    <p class="text-white-400 text-mg">If you want to add your project write to me: <a href="mailto:allbestfonts@gmail.com">E-mail</a></p>
+  </div>
+  
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-6">
+    {categories.map(category => (
+      <CategoryCard category={category} />
+    ))}
+  </div>
+</Layout>

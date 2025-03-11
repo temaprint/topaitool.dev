@@ -1,0 +1,25 @@
+{
+  "name": "C3 AI Property Appraisal",
+  "url": "https://c3.ai/industries/real-estate",
+  "category_id": "ai-real-estate",
+  "features": [
+    "Automated sales comparisons",
+    "Data cleaning workflows",
+    "ML-based condition ratings",
+    "Compliance management"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.7,
+  "description": "C3 AI Property Appraisal provides enterprise-grade AI tools for accurate property valuations, featuring automated sales comparisons, data cleaning workflows, and machine learning-based condition ratings.",
+  "pros": [
+    "Enterprise-grade accuracy",
+    "Comprehensive data analysis",
+    "Regulatory compliance",
+    "Efficient workflows"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Complex implementation",
+    "Requires technical expertise"
+  ]
+}

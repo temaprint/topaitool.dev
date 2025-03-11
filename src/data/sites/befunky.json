@@ -1,0 +1,25 @@
+{
+  "name": "BeFunky",
+  "url": "https://www.befunky.com",
+  "category_id": "ai-photo-enhancement",
+  "features": [
+    "Background removal",
+    "Photo restoration",
+    "Portrait enhancement",
+    "Old photo restoration"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "BeFunky combines AI-powered tools for background removal, photo restoration, and quality enhancement, featuring specialized tools like Portrait Enhancer and Old Photo Restorer.",
+  "pros": [
+    "Comprehensive editing suite",
+    "Easy to use interface",
+    "Quick processing",
+    "Good restoration results"
+  ],
+  "cons": [
+    "Advanced features are premium",
+    "Limited batch processing",
+    "Some tools need refinement"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Sangfor Technologies",
+  "url": "https://www.sangfor.com",
+  "category_id": "ai-cybersecurity",
+  "features": [
+    "Anomaly detection",
+    "Threat hunting",
+    "Zero-day protection",
+    "IoT security"
+  ],
+  "pricing": "Custom",
+  "rating": 4.6,
+  "description": "Sangfor Technologies focuses on advanced anomaly detection and AI-powered threat hunting, identifying zero-day threats and securing edge computing devices in IoT ecosystems.",
+  "pros": [
+    "Advanced threat hunting",
+    "IoT ecosystem protection",
+    "Zero-day threat detection",
+    "Comprehensive security"
+  ],
+  "cons": [
+    "Enterprise focus",
+    "Complex implementation",
+    "Technical expertise needed"
+  ]
+}

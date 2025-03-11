@@ -1,0 +1,25 @@
+{
+  "name": "Rosebud AI Game Creator",
+  "url": "https://rosebud.ai",
+  "category_id": "ai-gaming",
+  "features": [
+    "2D/3D asset generation",
+    "Game mechanics creation",
+    "Code generation",
+    "Rapid prototyping"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.6,
+  "description": "Rosebud AI Game Creator generates 2D and 3D game assets, mechanics, and initial code based on text descriptions, making game development accessible to both experienced developers and newcomers.",
+  "pros": [
+    "Quick asset generation",
+    "Code assistance",
+    "Multiple asset types",
+    "Beginner friendly"
+  ],
+  "cons": [
+    "Monthly subscription",
+    "Limited advanced features",
+    "Output customization needed"
+  ]
+}

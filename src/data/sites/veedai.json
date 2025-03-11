@@ -1,0 +1,25 @@
+{
+  "name": "VEED.IO AI Avatar",
+  "url": "https://www.veed.io/tools/ai-avatar-generator",
+  "category_id": "ai-chatbots",
+  "features": [
+    "Digital replica creation",
+    "AI voice generation",
+    "Script-based videos",
+    "Custom avatar styling"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "VEED.IO enables users to create talking avatars and digital replicas of themselves, featuring AI voice generation and script-based video creation for engaging content.",
+  "pros": [
+    "Easy digital replica creation",
+    "Good voice synthesis",
+    "Intuitive scripting tools",
+    "Quick rendering"
+  ],
+  "cons": [
+    "Free tier limitations",
+    "Some features need refinement",
+    "Limited animation options"
+  ]
+}

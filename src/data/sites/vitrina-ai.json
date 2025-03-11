@@ -1,0 +1,25 @@
+{
+  "name": "Vitrina AI",
+  "url": "https://vitrina.ai",
+  "category_id": "ai-film",
+  "features": [
+    "Script analysis",
+    "Marketing strategy generation",
+    "Automated editing",
+    "Box office analytics"
+  ],
+  "pricing": "Custom",
+  "rating": 4.4,
+  "description": "Vitrina AI revolutionizes filmmaking by automating crucial tasks from script analysis to marketing strategies, with powerful predictive analytics for box office performance.",
+  "pros": [
+    "Comprehensive analytics",
+    "Automated marketing suggestions",
+    "Advanced script analysis",
+    "Customizable workflows"
+  ],
+  "cons": [
+    "Custom pricing can be expensive",
+    "Complex feature set",
+    "Requires technical expertise"
+  ]
+}

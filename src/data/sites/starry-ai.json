@@ -1,0 +1,25 @@
+{
+  "name": "StarryAI",
+  "url": "https://starryai.com/character-generator",
+  "category_id": "ai-character-creation",
+  "features": [
+    "Text-to-character generation",
+    "Multiple artistic styles",
+    "Custom character attributes",
+    "High-resolution output"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "StarryAI is a powerful text-prompt-based character generator that transforms written descriptions into unique character artwork, supporting various artistic styles perfect for storytellers and creative professionals.",
+  "pros": [
+    "Intuitive text-to-image interface",
+    "Wide range of artistic styles",
+    "High-quality character outputs",
+    "Suitable for various use cases"
+  ],
+  "cons": [
+    "Premium features require subscription",
+    "Generation time can vary",
+    "Limited pose customization"
+  ]
+}

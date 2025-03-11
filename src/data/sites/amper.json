@@ -1,0 +1,25 @@
+{
+  "name": "Amper Music",
+  "url": "https://www.ampermusic.com",
+  "category_id": "ai-music",
+  "features": [
+    "Quick composition",
+    "Track accompaniment",
+    "Project-based scoring",
+    "Media integration"
+  ],
+  "pricing": "Custom",
+  "rating": 4.3,
+  "description": "Amper enables quick music composition and personalized accompaniments for existing tracks, making it ideal for creating background music in multimedia projects.",
+  "pros": [
+    "Fast composition process",
+    "Good for media projects",
+    "Professional sound quality",
+    "Easy integration"
+  ],
+  "cons": [
+    "Custom pricing only",
+    "Limited style options",
+    "Basic editing tools"
+  ]
+}

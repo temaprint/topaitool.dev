@@ -1,0 +1,25 @@
+{
+  "name": "Reclaim.ai",
+  "url": "https://reclaim.ai",
+  "category_id": "ai-virtual-assistants",
+  "features": [
+    "Smart scheduling",
+    "Calendar optimization",
+    "Task prioritization",
+    "Meeting management"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.7,
+  "description": "Reclaim.ai specializes in intelligent calendar management and scheduling optimization, helping professionals maximize productivity through automated time management.",
+  "pros": [
+    "Advanced scheduling algorithms",
+    "Calendar integration",
+    "Smart prioritization",
+    "Time analytics"
+  ],
+  "cons": [
+    "Premium features cost extra",
+    "Learning curve",
+    "Calendar sync limitations"
+  ]
+}

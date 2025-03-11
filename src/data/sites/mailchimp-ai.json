@@ -1,0 +1,25 @@
+{
+  "name": "Mailchimp AI",
+  "url": "https://mailchimp.com/ai-tools",
+  "category_id": "ai-marketing",
+  "features": [
+    "Email optimization",
+    "Content suggestions",
+    "Audience segmentation",
+    "Campaign insights"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "Mailchimp AI enhances email marketing with smart content suggestions, automated audience segmentation, and data-driven campaign insights.",
+  "pros": [
+    "Easy to use",
+    "Good free tier",
+    "Smart automation",
+    "Integrated analytics"
+  ],
+  "cons": [
+    "Limited advanced features",
+    "Email focus only",
+    "Premium features costly"
+  ]
+}

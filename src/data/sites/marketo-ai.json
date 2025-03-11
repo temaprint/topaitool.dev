@@ -1,0 +1,25 @@
+{
+  "name": "Adobe Marketo AI",
+  "url": "https://business.adobe.com/products/marketo/adobe-marketo.html",
+  "category_id": "ai-marketing",
+  "features": [
+    "Lead scoring",
+    "Behavioral tracking",
+    "Marketing automation",
+    "Performance prediction"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.7,
+  "description": "Adobe Marketo AI leverages machine learning for advanced lead scoring, behavioral tracking, and marketing automation, helping businesses optimize their marketing strategies.",
+  "pros": [
+    "Advanced lead management",
+    "Detailed analytics",
+    "Adobe integration",
+    "Scalable platform"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Complex setup",
+    "Learning curve"
+  ]
+}

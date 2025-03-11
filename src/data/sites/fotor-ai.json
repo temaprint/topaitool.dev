@@ -1,0 +1,25 @@
+{
+  "name": "Fotor AI Character Generator",
+  "url": "https://www.fotor.com/ai-character-generator",
+  "category_id": "ai-character-creation",
+  "features": [
+    "Quick character generation",
+    "Marketing-focused designs",
+    "Custom attributes",
+    "Batch processing"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.3,
+  "description": "Fotor AI Character Generator specializes in quickly creating custom characters for presentations and marketing materials, offering intuitive tools for generating engaging and unique designs.",
+  "pros": [
+    "Fast generation speed",
+    "Business-friendly outputs",
+    "Easy to use",
+    "Good for marketing materials"
+  ],
+  "cons": [
+    "Limited style variety",
+    "Basic customization options",
+    "Watermark on free tier"
+  ]
+}

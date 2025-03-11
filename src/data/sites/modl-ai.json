@@ -1,0 +1,25 @@
+{
+  "name": "Modl.ai",
+  "url": "https://www.modl.ai",
+  "category_id": "ai-gaming",
+  "features": [
+    "Automated QA testing",
+    "Bot generation",
+    "Performance testing",
+    "Bug detection"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Modl.ai provides automated QA testing by generating bots to test gameplay mechanics, identify bugs, and ensure performance stability across different scenarios.",
+  "pros": [
+    "Comprehensive testing suite",
+    "Automated bug detection",
+    "Performance optimization",
+    "Scalable testing"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Technical setup required",
+    "Learning curve"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Scenario",
+  "url": "https://www.scenario.com",
+  "category_id": "ai-gaming",
+  "features": [
+    "Texture generation",
+    "Concept art creation",
+    "Background assets",
+    "High-quality visuals"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Scenario specializes in generating textures, concept art, and background assets for games, enabling creators to produce high-quality visuals quickly and efficiently.",
+  "pros": [
+    "Fast texture generation",
+    "High-quality outputs",
+    "Game-ready assets",
+    "Good variety"
+  ],
+  "cons": [
+    "Limited free tier",
+    "Some inconsistency",
+    "Export restrictions"
+  ]
+}

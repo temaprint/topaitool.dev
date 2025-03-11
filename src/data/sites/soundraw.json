@@ -1,0 +1,25 @@
+{
+  "name": "Soundraw",
+  "url": "https://soundraw.io",
+  "category_id": "ai-music",
+  "features": [
+    "Customizable tracks",
+    "Mood and genre selection",
+    "Tempo adjustment",
+    "Manual editing capabilities"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.6,
+  "description": "Soundraw is a versatile AI music platform that allows users to create custom tracks by adjusting mood, genre, and tempo, offering precise control over the music creation process.",
+  "pros": [
+    "Fine-grained control over output",
+    "Multiple genre support",
+    "Real-time preview",
+    "High-quality sound"
+  ],
+  "cons": [
+    "Subscription required",
+    "Limited free options",
+    "Some genres need improvement"
+  ]
+}

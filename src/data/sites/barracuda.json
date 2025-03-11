@@ -1,0 +1,25 @@
+{
+  "name": "Barracuda Networks",
+  "url": "https://www.barracuda.com",
+  "category_id": "ai-cybersecurity",
+  "features": [
+    "Security intelligence",
+    "Malware detection",
+    "Insider threat detection",
+    "Network monitoring"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.6,
+  "description": "Barracuda Networks employs AI to improve security intelligence by detecting malware, phishing attacks, and insider threats through behavioral analysis and network monitoring.",
+  "pros": [
+    "Comprehensive protection",
+    "Good threat detection",
+    "Network visibility",
+    "Regular updates"
+  ],
+  "cons": [
+    "Subscription required",
+    "Initial setup complexity",
+    "Advanced features cost extra"
+  ]
+}

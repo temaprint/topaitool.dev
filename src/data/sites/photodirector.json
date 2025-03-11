@@ -1,0 +1,25 @@
+{
+  "name": "PhotoDirector",
+  "url": "https://www.cyberlink.com/products/photodirector",
+  "category_id": "ai-face-swapping",
+  "features": [
+    "AI face swapping",
+    "Photo editing suite",
+    "Intuitive interface",
+    "Batch processing"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.5,
+  "description": "PhotoDirector combines comprehensive photo editing with AI-powered face swapping capabilities, offering an intuitive interface suitable for both beginners and creative professionals.",
+  "pros": [
+    "User-friendly interface",
+    "Complete editing suite",
+    "Good quality results",
+    "Regular updates"
+  ],
+  "cons": [
+    "Subscription required",
+    "Resource intensive",
+    "Some features need high-end hardware"
+  ]
+}

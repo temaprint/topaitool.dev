@@ -1,0 +1,25 @@
+{
+  "name": "Google Translate",
+  "url": "https://translate.google.com",
+  "category_id": "ai-translation",
+  "features": [
+    "133+ languages",
+    "Real-time translation",
+    "Image translation",
+    "Offline support"
+  ],
+  "pricing": "Free",
+  "rating": 4.7,
+  "description": "Google Translate provides free translation services for over 133 languages, offering real-time translation, image translation, and offline language packs for mobile use.",
+  "pros": [
+    "Extensive language support",
+    "Free to use",
+    "Mobile app available",
+    "Offline capabilities"
+  ],
+  "cons": [
+    "Basic accuracy level",
+    "Limited context awareness",
+    "No professional features"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Deep-Image.ai",
+  "url": "https://deep-image.ai",
+  "category_id": "ai-photo-enhancement",
+  "features": [
+    "Image upscaling",
+    "Print optimization",
+    "E-commerce enhancement",
+    "Digital art improvement"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.6,
+  "description": "Deep-Image.ai specializes in upscaling images for print quality, enhancing e-commerce photos, and improving digital art with advanced AI algorithms.",
+  "pros": [
+    "High-quality upscaling",
+    "Print-ready output",
+    "Good for e-commerce",
+    "Preserves details"
+  ],
+  "cons": [
+    "Subscription required",
+    "Processing time for large files",
+    "Complex interface"
+  ]
+}

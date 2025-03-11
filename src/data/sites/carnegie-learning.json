@@ -1,0 +1,25 @@
+{
+  "name": "Carnegie Learning",
+  "url": "https://www.carnegielearning.com",
+  "category_id": "ai-education",
+  "features": [
+    "Intelligent tutoring",
+    "Real-time feedback",
+    "Individualized instruction",
+    "Performance analytics"
+  ],
+  "pricing": "Custom",
+  "rating": 4.6,
+  "description": "Carnegie Learning's intelligent tutoring system mimics human tutors by offering individualized instruction, real-time feedback, and tailored exercises to improve student achievement.",
+  "pros": [
+    "Research-backed methodology",
+    "Comprehensive analytics",
+    "Personalized learning paths",
+    "Professional development support"
+  ],
+  "cons": [
+    "Complex implementation",
+    "Requires training",
+    "Enterprise pricing"
+  ]
+}

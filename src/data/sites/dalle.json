@@ -1,0 +1,20 @@
+{
+  "name": "DALL·E",
+  "url": "https://openai.com/dall-e",
+  "category_id": "ai-image-generation",
+  "features": ["AI-generated art", "Text-to-image"],
+  "pricing": "Freemium",
+  "rating": 4.8,
+  "description": "DALL·E is a state-of-the-art AI system that creates realistic images and art from natural language descriptions.",
+  "pros": [
+    "High-quality image generation",
+    "Intuitive text-to-image interface",
+    "Wide variety of styles",
+    "Good understanding of prompts"
+  ],
+  "cons": [
+    "Usage costs can add up",
+    "Limited control over specific details",
+    "Output can be inconsistent"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Lexis+ AI",
+  "url": "https://www.lexisnexis.com/en-us/products/lexis-plus.page",
+  "category_id": "ai-legal",
+  "features": [
+    "Multi-LLM integration",
+    "Legal document drafting",
+    "Case summarization",
+    "Citation verification"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.7,
+  "description": "Lexis+ AI integrates multiple large language models like GPT-4 and Claude 2 to assist with legal research, document drafting, and case summarization, providing linked citations and accurate results.",
+  "pros": [
+    "Multiple AI models",
+    "Accurate citations",
+    "Comprehensive coverage",
+    "Integration capabilities"
+  ],
+  "cons": [
+    "Significant cost",
+    "Learning curve",
+    "Complex implementation"
+  ]
+}

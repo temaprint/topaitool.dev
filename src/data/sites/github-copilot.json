@@ -1,0 +1,25 @@
+{
+  "name": "GitHub Copilot",
+  "url": "https://github.com/features/copilot",
+  "category_id": "ai-code-generation",
+  "features": [
+    "Real-time code suggestions",
+    "Multi-language support",
+    "Context-aware completion",
+    "IDE integration"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.8,
+  "description": "GitHub Copilot is an AI pair programmer that provides real-time code suggestions and autocompletion, adapting to individual coding styles across multiple programming languages.",
+  "pros": [
+    "Excellent code suggestions",
+    "Seamless IDE integration",
+    "Learns from context",
+    "Supports many languages"
+  ],
+  "cons": [
+    "Subscription required",
+    "May suggest deprecated code",
+    "Requires good internet connection"
+  ]
+}

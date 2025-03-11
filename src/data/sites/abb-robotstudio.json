@@ -1,0 +1,25 @@
+{
+  "name": "ABB RobotStudio",
+  "url": "https://new.abb.com/products/robotics/robotstudio",
+  "category_id": "ai-robotics",
+  "features": [
+    "AI-powered programming",
+    "Digital twin simulation",
+    "Process optimization",
+    "Virtual commissioning"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.7,
+  "description": "ABB RobotStudio combines AI-powered programming with digital twin technology for robot simulation, process optimization, and virtual commissioning of industrial automation systems.",
+  "pros": [
+    "Comprehensive simulation",
+    "Digital twin support",
+    "Industry standard",
+    "Professional tools"
+  ],
+  "cons": [
+    "Subscription cost",
+    "Complex interface",
+    "Extensive training needed"
+  ]
+}

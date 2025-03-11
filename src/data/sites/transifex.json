@@ -1,0 +1,25 @@
+{
+  "name": "Transifex",
+  "url": "https://www.transifex.com",
+  "category_id": "ai-translation",
+  "features": [
+    "450+ languages",
+    "Localization automation",
+    "CMS integration",
+    "Translation memory"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.6,
+  "description": "Transifex is a comprehensive localization management platform supporting over 450 languages, with automated workflows and deep CMS integration for dynamic content updates.",
+  "pros": [
+    "Extensive language coverage",
+    "Strong automation",
+    "Good integrations",
+    "Translation memory"
+  ],
+  "cons": [
+    "Complex pricing",
+    "Learning curve",
+    "Setup time required"
+  ]
+}

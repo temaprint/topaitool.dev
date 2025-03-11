@@ -1,0 +1,25 @@
+{
+  "name": "NVIDIA Isaac",
+  "url": "https://developer.nvidia.com/isaac-sdk",
+  "category_id": "ai-robotics",
+  "features": [
+    "Robotics development platform",
+    "Simulation environment",
+    "AI training tools",
+    "Hardware acceleration"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.8,
+  "description": "NVIDIA Isaac is a comprehensive robotics development platform that provides AI-powered simulation, training tools, and hardware acceleration for building advanced autonomous machines.",
+  "pros": [
+    "Powerful simulation",
+    "Developer friendly",
+    "Hardware optimization",
+    "Good documentation"
+  ],
+  "cons": [
+    "Hardware requirements",
+    "Learning curve",
+    "Resource intensive"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "HouseCanary",
+  "url": "https://www.housecanary.com",
+  "category_id": "ai-real-estate",
+  "features": [
+    "Advanced property analytics",
+    "Market forecasting",
+    "Risk assessment",
+    "Data-driven valuations"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.8,
+  "description": "HouseCanary offers advanced analytics for property valuation and market forecasting, using detailed datasets to provide precise valuations and predict market trends for informed decision-making.",
+  "pros": [
+    "Accurate valuations",
+    "Detailed market insights",
+    "Comprehensive data coverage",
+    "Strong predictive analytics"
+  ],
+  "cons": [
+    "Premium pricing",
+    "Learning curve",
+    "Data complexity"
+  ]
+}

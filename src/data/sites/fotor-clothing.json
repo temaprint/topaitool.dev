@@ -1,0 +1,25 @@
+{
+  "name": "Fotor AI Clothing Generator",
+  "url": "https://www.fotor.com/ai-clothing-generator",
+  "category_id": "ai-fashion-design",
+  "features": [
+    "Text-to-clothing generation",
+    "Sketch completion",
+    "Outfit variations",
+    "Virtual try-on"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Fotor AI Clothing Generator enables users to create clothing designs from text prompts, complete sketches, and generate outfit variations with virtual try-on capabilities.",
+  "pros": [
+    "Intuitive design interface",
+    "Multiple generation methods",
+    "Virtual try-on feature",
+    "Good for beginners"
+  ],
+  "cons": [
+    "Limited free generations",
+    "Some style restrictions",
+    "Advanced features need subscription"
+  ]
+}

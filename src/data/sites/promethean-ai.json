@@ -1,0 +1,25 @@
+{
+  "name": "Promethean AI",
+  "url": "https://www.prometheanai.com",
+  "category_id": "ai-gaming",
+  "features": [
+    "Virtual world creation",
+    "Asset management",
+    "Workflow automation",
+    "Environment design"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Promethean AI assists in creating virtual worlds and managing digital assets, automating non-creative tasks to help developers design immersive environments efficiently.",
+  "pros": [
+    "Advanced environment generation",
+    "Streamlined workflow",
+    "Professional-grade output",
+    "Time-saving automation"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Steep learning curve",
+    "Hardware requirements"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fetch Robotics",
+  "url": "https://fetchrobotics.com",
+  "category_id": "ai-robotics",
+  "features": [
+    "Autonomous mobile robots",
+    "Fleet management",
+    "Workflow optimization",
+    "Cloud robotics platform"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Fetch Robotics provides autonomous mobile robots and a cloud robotics platform for warehouse automation, featuring AI-driven navigation and workflow optimization.",
+  "pros": [
+    "Scalable deployment",
+    "Cloud integration",
+    "Easy configuration",
+    "Good ROI"
+  ],
+  "cons": [
+    "Custom pricing",
+    "Infrastructure requirements",
+    "Setup complexity"
+  ]
+}

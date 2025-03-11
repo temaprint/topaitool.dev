@@ -1,0 +1,25 @@
+{
+  "name": "Microsoft Power BI",
+  "url": "https://powerbi.microsoft.com",
+  "category_id": "ai-data-analysis",
+  "features": [
+    "Real-time analytics",
+    "Multiple data sources",
+    "Interactive dashboards",
+    "Cloud and on-premises options"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.7,
+  "description": "Microsoft Power BI is a versatile business intelligence tool that connects to hundreds of data sources, enabling real-time data analysis and visualization with user-friendly dashboards.",
+  "pros": [
+    "Extensive data connectivity",
+    "User-friendly interface",
+    "Regular updates",
+    "Strong Microsoft integration"
+  ],
+  "cons": [
+    "Advanced features need premium",
+    "Learning curve for complex features",
+    "Some limitations in free tier"
+  ]
+}

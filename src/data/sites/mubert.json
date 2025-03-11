@@ -1,0 +1,25 @@
+{
+  "name": "Mubert",
+  "url": "https://mubert.com",
+  "category_id": "ai-music",
+  "features": [
+    "Real-time music generation",
+    "API integration",
+    "Royalty-free tracks",
+    "Stream-ready music"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Mubert generates real-time, royalty-free music for live streams, apps, and interactive projects, offering developer API integration for seamless platform implementation.",
+  "pros": [
+    "Real-time generation",
+    "Developer-friendly",
+    "Streaming optimized",
+    "Good API documentation"
+  ],
+  "cons": [
+    "API costs can be high",
+    "Limited offline support",
+    "Some repetitive patterns"
+  ]
+}

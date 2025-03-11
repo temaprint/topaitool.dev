@@ -1,0 +1,25 @@
+{
+  "name": "Generated Photos Human Generator",
+  "url": "https://generated.photos",
+  "category_id": "ai-human-faces",
+  "features": [
+    "Unique face generation",
+    "Full-body image creation",
+    "Extensive customization",
+    "Commercial licensing"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "Generated Photos creates unique human faces and full-body images with extensive customization options, widely used in advertising, game development, and digital projects.",
+  "pros": [
+    "High-quality outputs",
+    "Commercial licensing available",
+    "Comprehensive customization",
+    "Regular model updates"
+  ],
+  "cons": [
+    "Premium features cost more",
+    "API access requires subscription",
+    "Limited bulk generation"
+  ]
+}

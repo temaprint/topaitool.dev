@@ -1,0 +1,25 @@
+{
+  "name": "Applied Intuition",
+  "url": "https://www.appliedintuition.com",
+  "category_id": "ai-automotive",
+  "features": [
+    "Simulation environment",
+    "Scenario generation",
+    "Testing automation",
+    "Performance analysis"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.8,
+  "description": "Applied Intuition provides comprehensive simulation and testing platforms for autonomous vehicles, using AI to generate diverse test scenarios and analyze system performance.",
+  "pros": [
+    "Advanced simulation",
+    "Comprehensive testing",
+    "Detailed analytics",
+    "Development tools"
+  ],
+  "cons": [
+    "Enterprise focus",
+    "Technical expertise needed",
+    "Resource intensive"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Adobe Firefly",
+  "url": "https://www.adobe.com/products/firefly",
+  "category_id": "ai-image-generation",
+  "features": [
+    "Reference-based generation",
+    "Style consistency",
+    "Professional tools integration",
+    "Commercial licensing"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.7,
+  "description": "Adobe Firefly is a professional-grade AI image generator that excels in maintaining style consistency and integrates seamlessly with Adobe's Creative Suite.",
+  "pros": [
+    "Professional quality output",
+    "Adobe ecosystem integration",
+    "Style matching capability",
+    "Commercial license included"
+  ],
+  "cons": [
+    "Requires Adobe subscription",
+    "Limited free tier",
+    "Resource intensive"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "DreamBox Learning",
+  "url": "https://www.dreambox.com",
+  "category_id": "ai-education",
+  "features": [
+    "Adaptive learning engine",
+    "Real-time analytics",
+    "Personalized math content",
+    "Progress tracking"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.7,
+  "description": "DreamBox Learning uses AI to analyze student performance and provide personalized recommendations for learning materials and activities, with a focus on adaptive mathematics instruction.",
+  "pros": [
+    "Powerful adaptive technology",
+    "Detailed progress tracking",
+    "Engaging math content",
+    "Research-based approach"
+  ],
+  "cons": [
+    "Math-focused only",
+    "Requires consistent internet",
+    "Premium pricing"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Mobileye SuperVision",
+  "url": "https://www.mobileye.com/supervision",
+  "category_id": "ai-automotive",
+  "features": [
+    "Advanced driver assistance",
+    "Road analysis",
+    "Collision prevention",
+    "Navigation assistance"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.6,
+  "description": "Mobileye SuperVision offers advanced driver assistance features powered by AI, including road analysis, collision prevention, and intelligent navigation assistance.",
+  "pros": [
+    "Proven technology",
+    "Wide compatibility",
+    "Regular updates",
+    "Strong safety features"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Installation complexity",
+    "Hardware dependencies"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Jasper AI",
+  "url": "https://www.jasper.ai",
+  "category_id": "ai-text-generation",
+  "features": ["AI copywriting", "Marketing content"],
+  "pricing": "Paid",
+  "rating": 4.5,
+  "description": "Jasper AI is a powerful content creation platform specifically designed for marketing and copywriting needs.",
+  "pros": [
+    "Specialized in marketing content",
+    "Multiple content templates",
+    "SEO-focused features",
+    "Team collaboration tools"
+  ],
+  "cons": [
+    "Relatively expensive",
+    "Learning curve for advanced features",
+    "Output quality depends on input quality"
+  ]
+}

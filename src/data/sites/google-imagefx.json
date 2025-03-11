@@ -1,0 +1,25 @@
+{
+  "name": "Google ImageFX",
+  "url": "https://labs.google/imagefx",
+  "category_id": "ai-image-generation",
+  "features": [
+    "Fast image generation",
+    "High accuracy",
+    "User-friendly interface",
+    "Free access"
+  ],
+  "pricing": "Free",
+  "rating": 4.6,
+  "description": "Google ImageFX is a free AI image generator that combines speed with high-quality output, offering an accessible platform for various creative needs.",
+  "pros": [
+    "Completely free",
+    "Fast generation speed",
+    "Good image quality",
+    "Easy to use"
+  ],
+  "cons": [
+    "Limited style options",
+    "Basic editing features",
+    "No API access"
+  ]
+}

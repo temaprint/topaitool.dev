@@ -1,0 +1,25 @@
+{
+  "name": "SentinelOne",
+  "url": "https://www.sentinelone.com",
+  "category_id": "ai-cybersecurity",
+  "features": [
+    "Real-time threat detection",
+    "Network traffic analysis",
+    "Behavioral monitoring",
+    "Automated response"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.8,
+  "description": "SentinelOne utilizes AI-driven threat detection to analyze network traffic, user behavior, and system logs in real-time, providing automated responses and scalable security solutions.",
+  "pros": [
+    "Advanced threat detection",
+    "Real-time monitoring",
+    "Automated responses",
+    "Scalable architecture"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Complex deployment",
+    "Resource intensive"
+  ]
+}

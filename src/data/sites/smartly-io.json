@@ -1,0 +1,25 @@
+{
+  "name": "Smartly.io",
+  "url": "https://www.smartly.io",
+  "category_id": "ai-marketing",
+  "features": [
+    "Social media ad optimization",
+    "Creative automation",
+    "Cross-channel campaigns",
+    "Performance analytics"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Smartly.io focuses on social media ad optimization by automating creative production and cross-channel campaign management, with AI-powered analytics for performance prediction.",
+  "pros": [
+    "Advanced creative automation",
+    "Cross-channel capabilities",
+    "Strong analytics",
+    "Performance optimization"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Learning curve",
+    "Complex feature set"
+  ]
+}

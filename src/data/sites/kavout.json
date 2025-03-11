@@ -1,0 +1,25 @@
+{
+  "name": "Kavout",
+  "url": "https://www.kavout.com",
+  "category_id": "ai-finance",
+  "features": [
+    "AI stock scoring",
+    "Portfolio management",
+    "Multi-criteria analysis",
+    "Investment insights"
+  ],
+  "pricing": "Custom",
+  "rating": 4.6,
+  "description": "Kavout provides a stock scoring system based on AI-driven analysis, simplifying portfolio management by evaluating companies across multiple criteria for informed investment decisions.",
+  "pros": [
+    "Comprehensive scoring",
+    "Portfolio optimization",
+    "Data-driven insights",
+    "Easy evaluation"
+  ],
+  "cons": [
+    "Custom pricing model",
+    "Limited customization",
+    "Data delay for some markets"
+  ]
+}

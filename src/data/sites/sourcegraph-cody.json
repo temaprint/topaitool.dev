@@ -1,0 +1,25 @@
+{
+  "name": "Sourcegraph Cody",
+  "url": "https://about.sourcegraph.com/cody",
+  "category_id": "ai-code-generation",
+  "features": [
+    "Context-aware suggestions",
+    "Codebase understanding",
+    "Project alignment",
+    "Development automation"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Sourcegraph Cody is focused on understanding the context of the codebase, offering precise suggestions aligned with project objectives to improve productivity and reduce development time.",
+  "pros": [
+    "Strong context awareness",
+    "Project-specific suggestions",
+    "Good documentation",
+    "Enterprise ready"
+  ],
+  "cons": [
+    "Setup complexity",
+    "Enterprise features are costly",
+    "Learning curve"
+  ]
+}

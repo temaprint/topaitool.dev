@@ -1,0 +1,25 @@
+{
+  "name": "HireQuotient AI Face Generator",
+  "url": "https://hirequotient.ai/tools/ai-face-generator",
+  "category_id": "ai-human-faces",
+  "features": [
+    "High-resolution outputs",
+    "Diverse face generation",
+    "Professional-grade results",
+    "Customizable attributes"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.7,
+  "description": "HireQuotient AI Face Generator creates highly realistic and diverse human faces using advanced AI, perfect for professionals in marketing, entertainment, and design industries.",
+  "pros": [
+    "Exceptional image quality",
+    "Wide diversity options",
+    "Professional-grade outputs",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Advanced features require subscription",
+    "Generation time for high-res images",
+    "Limited batch processing in free tier"
+  ]
+}

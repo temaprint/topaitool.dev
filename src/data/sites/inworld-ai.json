@@ -1,0 +1,25 @@
+{
+  "name": "Inworld AI",
+  "url": "https://www.inworld.ai",
+  "category_id": "ai-gaming",
+  "features": [
+    "Advanced NPC creation",
+    "Emotional AI",
+    "Memory systems",
+    "Multimodal interaction"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.8,
+  "description": "Inworld AI specializes in creating advanced AI NPCs with memory, emotions, narrative control, and multimodal capabilities for immersive gaming experiences.",
+  "pros": [
+    "Sophisticated character AI",
+    "Rich emotional simulation",
+    "Good game engine integration",
+    "Developer-friendly tools"
+  ],
+  "cons": [
+    "Advanced features are premium",
+    "Complex implementation",
+    "Resource intensive"
+  ]
+}

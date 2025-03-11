@@ -1,0 +1,25 @@
+{
+  "name": "Artflow",
+  "url": "https://artflow.ai",
+  "category_id": "ai-character-creation",
+  "features": [
+    "Dynamic pose customization",
+    "Contour and depth control",
+    "Anime and fantasy styles",
+    "Character animation options"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Artflow is a versatile character creation platform that offers advanced customization options for poses, contours, and depth, perfect for creating anime heroes or fantasy creatures.",
+  "pros": [
+    "Advanced pose control",
+    "Specialized in anime and fantasy",
+    "Good animation capabilities",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Learning curve for advanced features",
+    "Limited export options in free tier",
+    "Style restrictions"
+  ]
+}

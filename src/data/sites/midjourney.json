@@ -1,0 +1,25 @@
+{
+  "name": "Midjourney",
+  "url": "https://www.midjourney.com",
+  "category_id": "ai-image-generation",
+  "features": [
+    "High-quality artistic renderings",
+    "Intricate detail generation",
+    "Unique art styles",
+    "Discord integration"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.8,
+  "description": "Midjourney is renowned for producing stunning, artistic images with incredible detail and unique styles, making it a favorite among creative professionals and artists.",
+  "pros": [
+    "Exceptional artistic quality",
+    "Strong community",
+    "Unique artistic style",
+    "Regular model updates"
+  ],
+  "cons": [
+    "Subscription required",
+    "Discord-only interface",
+    "Learning curve for prompts"
+  ]
+}

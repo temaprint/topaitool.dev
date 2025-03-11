@@ -1,0 +1,42 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import SiteCard from '../../components/SiteCard.astro';
+import SortSelect from '../../components/SortSelect.astro';
+import { categories, sites, sortOptions } from '../../data/categories';
+
+export function getStaticPaths() {
+  return categories.map(category => ({
+    params: { id: category.id },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+const { sort = 'rating-desc' } = Astro.url.searchParams;
+
+let categorySites = sites.filter(site => site.category_id === category.id);
+const selectedSortOption = sortOptions.find(option => option.id === sort);
+
+if (selectedSortOption) {
+  categorySites = [...categorySites].sort(selectedSortOption.sortFn);
+}
+---
+
+<Layout title={`${category.name} - AI Tools Catalog`}>
+  <div class="mb-8">
+    <a href="/" class="text-purple-400 hover:text-purple-300 mb-4 inline-block">← Back to Categories</a>
+    <h1 class="text-4xl font-bold mb-2 flex items-center gap-3">
+      <span class="text-5xl">{category.emoji}</span>
+      {category.name}
+    </h1>
+    <p class="text-gray-400">{category.description}</p>
+  </div>
+  
+  <SortSelect options={sortOptions} selectedSort={sort} />
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {categorySites.map(site => (
+      <SiteCard site={site} />
+    ))}
+  </div>
+</Layout>

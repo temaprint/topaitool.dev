@@ -1,0 +1,25 @@
+{
+  "name": "Narrato",
+  "url": "https://narrato.io",
+  "category_id": "ai-text-generation",
+  "features": [
+    "AI Content Genie",
+    "Blog post generation",
+    "Social media content",
+    "Website theme analysis"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.4,
+  "description": "Narrato is a comprehensive content workspace with an AI Content Genie that generates blog posts and social media content by analyzing website themes and keywords.",
+  "pros": [
+    "Website theme integration",
+    "Comprehensive content tools",
+    "Good keyword analysis",
+    "Team collaboration features"
+  ],
+  "cons": [
+    "Learning curve for full features",
+    "Premium pricing",
+    "Limited free tier"
+  ]
+}

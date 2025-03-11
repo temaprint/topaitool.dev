@@ -1,0 +1,25 @@
+{
+  "name": "ElevenLabs",
+  "url": "https://elevenlabs.io",
+  "category_id": "ai-voice-generation",
+  "features": [
+    "Human-like voices",
+    "Accent customization",
+    "Voice Lab",
+    "Intonation control"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.8,
+  "description": "ElevenLabs provides highly realistic voice synthesis with advanced customization features including accent control, intonation adjustment, and a Voice Lab for experimenting with voice characteristics.",
+  "pros": [
+    "Exceptional voice quality",
+    "Advanced customization",
+    "Voice Lab features",
+    "Natural intonation"
+  ],
+  "cons": [
+    "Premium pricing",
+    "Limited free characters",
+    "API quota restrictions"
+  ]
+}

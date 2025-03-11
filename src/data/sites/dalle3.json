@@ -1,0 +1,25 @@
+{
+  "name": "DALL-E 3",
+  "url": "https://openai.com/dall-e-3",
+  "category_id": "ai-image-generation",
+  "features": [
+    "High-quality image generation",
+    "Advanced editing capabilities",
+    "Microsoft Designer integration",
+    "Detailed text prompt support"
+  ],
+  "pricing": "Paid",
+  "rating": 4.9,
+  "description": "DALL-E 3 is OpenAI's latest image generation model, producing exceptionally high-quality images from detailed text descriptions with advanced editing and refinement capabilities.",
+  "pros": [
+    "Superior image quality",
+    "Excellent prompt understanding",
+    "Advanced editing features",
+    "Free access via Microsoft Designer"
+  ],
+  "cons": [
+    "Usage costs can be high",
+    "Limited free generations",
+    "API access requires subscription"
+  ]
+}

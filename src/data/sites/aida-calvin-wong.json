@@ -1,0 +1,25 @@
+{
+  "name": "AiDA by Calvin Wong",
+  "url": "https://aida.calvinwong.com",
+  "category_id": "ai-fashion-design",
+  "features": [
+    "Sketch-to-blueprint conversion",
+    "Color implementation",
+    "Design development",
+    "Fashion event support"
+  ],
+  "pricing": "Custom",
+  "rating": 4.8,
+  "description": "AiDA accelerates design development by converting sketches and color ideas into precise blueprints, preserving designer creativity while enabling unique collection creation for fashion events.",
+  "pros": [
+    "Professional-grade output",
+    "Designer-focused workflow",
+    "Precise blueprint generation",
+    "Creative preservation"
+  ],
+  "cons": [
+    "Custom pricing model",
+    "Specialized learning required",
+    "Limited accessibility"
+  ]
+}

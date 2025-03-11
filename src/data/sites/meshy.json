@@ -1,0 +1,25 @@
+{
+  "name": "Meshy",
+  "url": "https://meshy.ai",
+  "category_id": "ai-3d-generation",
+  "features": [
+    "AI texturing",
+    "3D asset library",
+    "Custom modeling",
+    "Workflow integration"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.6,
+  "description": "Meshy provides AI-powered texturing and modeling tools with a vast library of customizable assets, perfect for animators, industrial designers, and architects.",
+  "pros": [
+    "Extensive asset library",
+    "Professional workflow integration",
+    "Quality texturing tools",
+    "Industry-standard compatibility"
+  ],
+  "cons": [
+    "Subscription required",
+    "Learning curve for beginners",
+    "Resource-intensive processing"
+  ]
+}

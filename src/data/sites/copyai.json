@@ -1,0 +1,25 @@
+{
+  "name": "Copy.ai",
+  "url": "https://www.copy.ai",
+  "category_id": "ai-text-generation",
+  "features": [
+    "Article generation",
+    "Product descriptions",
+    "Ad copy creation",
+    "Multiple content variations"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "Copy.ai offers powerful tools for creating articles, product descriptions, and ad copy, with options to customize tone and generate multiple content variations.",
+  "pros": [
+    "Versatile content types",
+    "Multiple tone options",
+    "Good variation generation",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Monthly content limits",
+    "Some outputs need refinement",
+    "Advanced features are premium"
+  ]
+}

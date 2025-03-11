@@ -1,0 +1,25 @@
+{
+  "name": "Craiyon",
+  "url": "https://www.craiyon.com",
+  "category_id": "ai-image-generation",
+  "features": [
+    "Text-to-image generation",
+    "Multiple style options",
+    "Beginner-friendly",
+    "Free access"
+  ],
+  "pricing": "Free",
+  "rating": 4.2,
+  "description": "Formerly known as DALL-E Mini, Craiyon is a free and accessible AI art generator that creates images from text descriptions, perfect for casual creators.",
+  "pros": [
+    "Free to use",
+    "No account required",
+    "Simple interface",
+    "Quick generation"
+  ],
+  "cons": [
+    "Lower image quality",
+    "Limited resolution",
+    "Basic features only"
+  ]
+}

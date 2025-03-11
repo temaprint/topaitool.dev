@@ -1,0 +1,25 @@
+{
+  "name": "Spyne AI",
+  "url": "https://spyne.ai",
+  "category_id": "ai-photo-enhancement",
+  "features": [
+    "Resolution improvement",
+    "Clarity enhancement",
+    "Product image optimization",
+    "Old photo restoration"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.7,
+  "description": "Spyne AI specializes in improving resolution and clarity, particularly effective for restoring old photos and enhancing product images for e-commerce platforms.",
+  "pros": [
+    "High-quality results",
+    "E-commerce focused",
+    "Good restoration features",
+    "Professional output"
+  ],
+  "cons": [
+    "Premium pricing",
+    "Learning curve",
+    "API costs can be high"
+  ]
+}

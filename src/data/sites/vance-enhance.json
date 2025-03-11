@@ -1,0 +1,25 @@
+{
+  "name": "Vance AI Photo Enhancer",
+  "url": "https://vanceai.com/photo-enhancer",
+  "category_id": "ai-photo-enhancement",
+  "features": [
+    "Image resolution enhancement",
+    "Pixelation fixing",
+    "Color improvement",
+    "Detail enhancement"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "Vance AI Photo Enhancer uses advanced AI to improve image resolution, fix pixelation, and enhance colors and details, making it perfect for restoring old or blurry photos.",
+  "pros": [
+    "User-friendly interface",
+    "Fast processing",
+    "Good resolution enhancement",
+    "Multiple output options"
+  ],
+  "cons": [
+    "Limited free credits",
+    "Some features need subscription",
+    "Processing time for large files"
+  ]
+}

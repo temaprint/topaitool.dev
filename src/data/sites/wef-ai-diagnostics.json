@@ -1,0 +1,25 @@
+{
+  "name": "WEF AI Diagnostics",
+  "url": "https://www.weforum.org/ai-diagnostics",
+  "category_id": "ai-healthcare",
+  "features": [
+    "Accessible diagnostics",
+    "Global health solutions",
+    "Collaborative platform",
+    "Remote diagnostics"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "World Economic Forum's AI diagnostics initiative democratizes healthcare by making early and accurate diagnoses more accessible, particularly in regions with limited access to specialized medical professionals.",
+  "pros": [
+    "Global accessibility",
+    "Collaborative approach",
+    "Remote capabilities",
+    "Inclusive solutions"
+  ],
+  "cons": [
+    "Implementation challenges",
+    "Infrastructure requirements",
+    "Regional variations"
+  ]
+}

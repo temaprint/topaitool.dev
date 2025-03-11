@@ -1,0 +1,20 @@
+{
+  "name": "ChatGPT",
+  "url": "https://openai.com/chatgpt",
+  "category_id": "ai-text-generation",
+  "features": ["AI text generation", "Creative writing", "Content assistance"],
+  "pricing": "Freemium",
+  "rating": 4.9,
+  "description": "ChatGPT is an advanced AI language model capable of engaging in natural conversations and generating high-quality text content.",
+  "pros": [
+    "Versatile text generation",
+    "Natural conversation flow",
+    "Handles complex queries",
+    "Regular updates and improvements"
+  ],
+  "cons": [
+    "May occasionally provide incorrect information",
+    "Premium features require subscription",
+    "Can be temporarily unavailable during peak times"
+  ]
+}

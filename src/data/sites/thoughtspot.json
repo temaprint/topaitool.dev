@@ -1,0 +1,25 @@
+{
+  "name": "ThoughtSpot",
+  "url": "https://www.thoughtspot.com",
+  "category_id": "ai-data-analysis",
+  "features": [
+    "AI-powered analytics",
+    "Natural language queries",
+    "Automated insights",
+    "Interactive visualizations"
+  ],
+  "pricing": "Custom",
+  "rating": 4.6,
+  "description": "ThoughtSpot features AI-powered self-service analytics through its 'Spotter' AI Analyst, enabling natural language queries, automated insights, and interactive data visualizations for enterprise-scale decision-making.",
+  "pros": [
+    "Natural language search",
+    "Automated insight generation",
+    "Enterprise scalability",
+    "Modern interface"
+  ],
+  "cons": [
+    "Enterprise pricing",
+    "Complex implementation",
+    "Requires data preparation"
+  ]
+}

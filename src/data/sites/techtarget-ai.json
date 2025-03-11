@@ -1,0 +1,25 @@
+{
+  "name": "TechTarget Medical AI",
+  "url": "https://www.techtarget.com/healthit",
+  "category_id": "ai-healthcare",
+  "features": [
+    "Diagnostic accuracy",
+    "Treatment planning",
+    "Clinical workflow",
+    "Virtual assistance"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.6,
+  "description": "TechTarget's AI technologies transform healthcare by improving diagnostic accuracy, personalizing treatment plans, and streamlining clinical workflows through advanced machine learning.",
+  "pros": [
+    "Workflow optimization",
+    "Treatment personalization",
+    "Clinical decision support",
+    "Scalable solutions"
+  ],
+  "cons": [
+    "Enterprise focus",
+    "Significant investment required",
+    "Complex deployment"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "SmartClick",
+  "url": "https://smartclick.ai",
+  "category_id": "ai-film",
+  "features": [
+    "AI scriptwriting assistance",
+    "Box office prediction",
+    "Trailer generation",
+    "Film editing automation"
+  ],
+  "pricing": "Enterprise",
+  "rating": 4.3,
+  "description": "SmartClick leverages AI to streamline various aspects of film production, from scriptwriting to predicting box office success and creating compelling trailers.",
+  "pros": [
+    "Comprehensive film production suite",
+    "Advanced predictive analytics",
+    "Automated trailer generation",
+    "Industry-standard integrations"
+  ],
+  "cons": [
+    "Enterprise pricing may be prohibitive",
+    "Steep learning curve",
+    "Requires significant computing resources"
+  ]
+}

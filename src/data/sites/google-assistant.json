@@ -1,0 +1,25 @@
+{
+  "name": "Google Assistant",
+  "url": "https://assistant.google.com",
+  "category_id": "ai-virtual-assistants",
+  "features": [
+    "Task management",
+    "Smart home control",
+    "Google services integration",
+    "Real-time information"
+  ],
+  "pricing": "Free",
+  "rating": 4.8,
+  "description": "Google Assistant is a versatile AI that manages tasks, controls smart home devices, and integrates seamlessly with Google services like Gmail and Calendar for enhanced productivity.",
+  "pros": [
+    "Extensive Google ecosystem integration",
+    "Natural language understanding",
+    "Smart home compatibility",
+    "Cross-platform support"
+  ],
+  "cons": [
+    "Requires Google account",
+    "Limited third-party integration",
+    "Some features need specific devices"
+  ]
+}

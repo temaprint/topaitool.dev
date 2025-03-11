@@ -1,0 +1,25 @@
+{
+  "name": "ManyChat",
+  "url": "https://manychat.com",
+  "category_id": "ai-marketing",
+  "features": [
+    "Multi-platform chatbots",
+    "CRM integration",
+    "Automated messaging",
+    "Customer engagement tools"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.6,
+  "description": "ManyChat automates customer interactions through AI-powered chatbots across Facebook Messenger, Instagram DMs, WhatsApp, and SMS, with seamless CRM integration for enhanced customer engagement.",
+  "pros": [
+    "Easy bot creation",
+    "Multi-platform support",
+    "Good CRM integration",
+    "Visual flow builder"
+  ],
+  "cons": [
+    "Platform limitations",
+    "Advanced features are premium",
+    "Limited customization in free tier"
+  ]
+}

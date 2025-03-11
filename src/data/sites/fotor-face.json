@@ -1,0 +1,25 @@
+{
+  "name": "Fotor AI Face Generator",
+  "url": "https://www.fotor.com/ai-face-generator",
+  "category_id": "ai-human-faces",
+  "features": [
+    "Text-prompt generation",
+    "Full-body image creation",
+    "Style customization",
+    "Artistic variations"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.4,
+  "description": "Fotor AI Face Generator creates lifelike faces and full-body images based on text prompts or reference photos, with extensive customization options for hairstyles, skin tones, and accessories.",
+  "pros": [
+    "Comprehensive customization",
+    "Multiple artistic styles",
+    "Full-body generation",
+    "Good reference photo handling"
+  ],
+  "cons": [
+    "Free tier limitations",
+    "Processing time for complex requests",
+    "Inconsistent quality across styles"
+  ]
+}

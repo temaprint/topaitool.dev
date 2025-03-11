@@ -1,0 +1,25 @@
+{
+  "name": "Luma AI",
+  "url": "https://lumalabs.ai",
+  "category_id": "ai-3d-generation",
+  "features": [
+    "Video-to-3D conversion",
+    "Text-to-3D generation",
+    "VFX integration",
+    "API support"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.7,
+  "description": "Luma AI transforms videos into detailed 3D models and creates 3D scenes from text prompts, offering professional VFX integration and API access for developers.",
+  "pros": [
+    "High-quality 3D conversion",
+    "Versatile input options",
+    "Developer-friendly API",
+    "Professional VFX support"
+  ],
+  "cons": [
+    "Complex projects require subscription",
+    "Processing time for large files",
+    "Advanced features are premium"
+  ]
+}

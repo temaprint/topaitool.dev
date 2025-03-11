@@ -1,0 +1,25 @@
+{
+  "name": "DealMachine",
+  "url": "https://dealmachine.com",
+  "category_id": "ai-real-estate",
+  "features": [
+    "Automated list building",
+    "Property search automation",
+    "Predictive analytics",
+    "Investment opportunity scoring"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.5,
+  "description": "DealMachine automates real estate list building and property searches, combining property valuation with predictive analytics to identify lucrative investment opportunities.",
+  "pros": [
+    "Automated lead generation",
+    "Investment analysis",
+    "Mobile-friendly",
+    "Good for investors"
+  ],
+  "cons": [
+    "Subscription required",
+    "Limited free features",
+    "Market-specific accuracy"
+  ]
+}

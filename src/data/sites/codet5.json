@@ -1,0 +1,25 @@
+{
+  "name": "CodeT5",
+  "url": "https://github.com/salesforce/CodeT5",
+  "category_id": "ai-code-generation",
+  "features": [
+    "Text-to-code generation",
+    "Code autocompletion",
+    "Code summarization",
+    "Open-source"
+  ],
+  "pricing": "Free",
+  "rating": 4.5,
+  "description": "CodeT5 is an open-source AI code generator that excels in text-to-code generation, autocompletion, and summarization, supporting various programming languages like Python, JavaScript, and Java.",
+  "pros": [
+    "Free and open-source",
+    "Multiple programming languages",
+    "Good documentation",
+    "Community-driven"
+  ],
+  "cons": [
+    "Technical setup required",
+    "Limited support",
+    "Resource intensive"
+  ]
+}

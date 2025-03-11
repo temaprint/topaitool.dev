@@ -1,0 +1,25 @@
+{
+  "name": "Microsoft Translator",
+  "url": "https://www.microsoft.com/en-us/translator",
+  "category_id": "ai-translation",
+  "features": [
+    "100+ languages",
+    "Speech translation",
+    "Document translation",
+    "Enterprise integration"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.7,
+  "description": "Microsoft Translator offers enterprise-level translation solutions with support for over 100 languages, providing text, speech, and document translation services with seamless Microsoft product integration.",
+  "pros": [
+    "Wide language support",
+    "Microsoft ecosystem integration",
+    "Enterprise features",
+    "Multi-modal translation"
+  ],
+  "cons": [
+    "API costs for heavy usage",
+    "Some features need Azure",
+    "Complex enterprise setup"
+  ]
+}

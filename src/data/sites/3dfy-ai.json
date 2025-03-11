@@ -1,0 +1,25 @@
+{
+  "name": "3DFY AI",
+  "url": "https://3dfy.ai",
+  "category_id": "ai-3d-generation",
+  "features": [
+    "Text-to-3D generation",
+    "Automation features",
+    "Business API",
+    "Scalable output"
+  ],
+  "pricing": "Custom",
+  "rating": 4.6,
+  "description": "3DFY AI specializes in scalable text-to-3D model generation with powerful automation features and API access, designed for businesses requiring high-quality outputs at scale.",
+  "pros": [
+    "Enterprise-grade output",
+    "Scalable automation",
+    "Robust API",
+    "High-quality models"
+  ],
+  "cons": [
+    "Custom pricing only",
+    "Enterprise focus",
+    "Technical setup required"
+  ]
+}

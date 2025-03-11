@@ -1,0 +1,25 @@
+{
+  "name": "Play.ht",
+  "url": "https://play.ht",
+  "category_id": "ai-voice-generation",
+  "features": [
+    "Podcast creation",
+    "Audiobook generation",
+    "SSML support",
+    "Voice customization"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Play.ht specializes in creating podcasts and audiobooks with high-quality voices, offering extensive customization options including speed, pitch, and SSML tags for enhanced control.",
+  "pros": [
+    "Good for long-form content",
+    "SSML tag support",
+    "Multiple languages",
+    "Flexible customization"
+  ],
+  "cons": [
+    "Premium features costly",
+    "Processing time for long content",
+    "Limited free options"
+  ]
+}

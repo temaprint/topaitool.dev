@@ -1,0 +1,25 @@
+{
+  "name": "Media.io AI Face Generator",
+  "url": "https://www.media.io/ai-face-generator",
+  "category_id": "ai-human-faces",
+  "features": [
+    "Hyper-realistic faces",
+    "Natural expressions",
+    "Age and gender customization",
+    "Style variations"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Media.io offers a fast and simple tool for generating hyper-realistic faces with natural expressions, supporting various customization options for gaming, marketing, and social media use.",
+  "pros": [
+    "Quick generation speed",
+    "Natural-looking results",
+    "Easy customization options",
+    "Multiple use cases"
+  ],
+  "cons": [
+    "Limited free generations",
+    "Basic editing tools",
+    "Some features require subscription"
+  ]
+}

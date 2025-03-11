@@ -1,0 +1,25 @@
+{
+  "name": "Apple Siri",
+  "url": "https://www.apple.com/siri",
+  "category_id": "ai-virtual-assistants",
+  "features": [
+    "Personal task management",
+    "Apple ecosystem integration",
+    "Voice control",
+    "Personalized responses"
+  ],
+  "pricing": "Free",
+  "rating": 4.6,
+  "description": "Siri is Apple's intelligent assistant that manages personal tasks, controls Apple devices, and provides personalized responses based on user preferences and behavior.",
+  "pros": [
+    "Deep Apple integration",
+    "Privacy focused",
+    "Seamless device sync",
+    "Natural conversation"
+  ],
+  "cons": [
+    "Apple devices only",
+    "Limited third-party support",
+    "Internet connection required"
+  ]
+}

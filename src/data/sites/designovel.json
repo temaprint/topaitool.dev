@@ -1,0 +1,25 @@
+{
+  "name": "Designovel",
+  "url": "https://designovel.com",
+  "category_id": "ai-fashion-design",
+  "features": [
+    "Trend prediction",
+    "Market analysis",
+    "Design advice",
+    "Creative process automation"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.5,
+  "description": "Designovel focuses on trend prediction and design advice, leveraging AI for market sensing, forecasting, and creative design processes to help designers stay ahead of trends.",
+  "pros": [
+    "Advanced trend analysis",
+    "Market-driven insights",
+    "Creative automation",
+    "Regular updates"
+  ],
+  "cons": [
+    "Subscription required",
+    "Complex feature set",
+    "Data-heavy interface"
+  ]
+}

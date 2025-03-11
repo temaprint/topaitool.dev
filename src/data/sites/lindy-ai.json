@@ -1,0 +1,25 @@
+{
+  "name": "Lindy",
+  "url": "https://lindy.ai",
+  "category_id": "ai-virtual-assistants",
+  "features": [
+    "Multi-task management",
+    "Workflow automation",
+    "Business integration",
+    "Scalable assistance"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.5,
+  "description": "Lindy is a scalable AI assistant that manages multiple tasks through centralized intelligence, streamlining workflows for individuals and businesses.",
+  "pros": [
+    "Comprehensive task handling",
+    "Business workflow focus",
+    "Scalable architecture",
+    "Good automation tools"
+  ],
+  "cons": [
+    "Subscription required",
+    "Complex setup process",
+    "Enterprise pricing"
+  ]
+}

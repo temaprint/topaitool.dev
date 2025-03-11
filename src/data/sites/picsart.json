@@ -1,0 +1,25 @@
+{
+  "name": "Picsart AI Character Generator",
+  "url": "https://picsart.com/ai-character-generator",
+  "category_id": "ai-character-creation",
+  "features": [
+    "Text-prompt generation",
+    "Multiple art styles",
+    "High-resolution output",
+    "Style customization"
+  ],
+  "pricing": "Freemium",
+  "rating": 4.5,
+  "description": "Picsart AI Character Generator instantly creates detailed characters in any art style based on text prompts, perfect for fictional projects and concept art.",
+  "pros": [
+    "Fast generation",
+    "High-quality output",
+    "Various art styles",
+    "Good for concept art"
+  ],
+  "cons": [
+    "Some features require subscription",
+    "Limited pose options",
+    "Style consistency varies"
+  ]
+}

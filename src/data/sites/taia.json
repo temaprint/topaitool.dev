@@ -1,0 +1,25 @@
+{
+  "name": "TAIA",
+  "url": "https://taia.io",
+  "category_id": "ai-translation",
+  "features": [
+    "90+ languages",
+    "Industry-specific translation",
+    "Human editing",
+    "API access"
+  ],
+  "pricing": "Pay-per-use",
+  "rating": 4.5,
+  "description": "TAIA combines AI-powered translation with human editing for accuracy in industry-specific content, supporting over 90 languages with specialized terminology handling.",
+  "pros": [
+    "Industry specialization",
+    "Human review option",
+    "Flexible pricing",
+    "API available"
+  ],
+  "cons": [
+    "Per-use costs add up",
+    "Processing time",
+    "Limited free features"
+  ]
+}

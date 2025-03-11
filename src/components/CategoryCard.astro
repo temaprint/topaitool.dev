@@ -1,0 +1,17 @@
+---
+import type { Category } from '../data/categories';
+
+interface Props {
+  category: Category;
+}
+
+const { category } = Astro.props;
+---
+
+<a href={`/category/${category.id}`} class="block">
+  <div class="bg-dark-card rounded-xl p-6 h-full transform hover:scale-105 transition-transform duration-200 border border-gray-800 hover:border-purple-500">
+    <div class="text-4xl mb-4">{category.emoji}</div>
+    <h2 class="text-xl font-bold text-white mb-2">{category.name}</h2>
+    <p class="text-gray-400">{category.description}</p>
+  </div>
+</a>

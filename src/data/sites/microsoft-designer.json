@@ -1,0 +1,25 @@
+{
+  "name": "Microsoft Designer AI Character Generator",
+  "url": "https://designer.microsoft.com",
+  "category_id": "ai-character-creation",
+  "features": [
+    "Free character design",
+    "Intuitive interface",
+    "Microsoft integration",
+    "Professional templates"
+  ],
+  "pricing": "Free",
+  "rating": 4.4,
+  "description": "Microsoft Designer offers a free and intuitive AI-powered character generator, perfect for creating professional characters with easy customization features.",
+  "pros": [
+    "Completely free",
+    "Professional design quality",
+    "Microsoft ecosystem integration",
+    "Regular updates"
+  ],
+  "cons": [
+    "Microsoft account required",
+    "Limited export formats",
+    "Basic animation options"
+  ]
+}

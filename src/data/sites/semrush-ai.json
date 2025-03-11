@@ -1,0 +1,25 @@
+{
+  "name": "Semrush AI",
+  "url": "https://www.semrush.com/ai",
+  "category_id": "ai-marketing",
+  "features": [
+    "SEO optimization",
+    "Content strategy",
+    "Competitor analysis",
+    "Market research"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.8,
+  "description": "Semrush AI provides comprehensive digital marketing insights, combining SEO optimization, content strategy, and competitor analysis with advanced AI capabilities.",
+  "pros": [
+    "Comprehensive SEO tools",
+    "Detailed analytics",
+    "Regular updates",
+    "Strong research features"
+  ],
+  "cons": [
+    "Expensive plans",
+    "Feature overwhelm",
+    "Data limits on lower tiers"
+  ]
+}

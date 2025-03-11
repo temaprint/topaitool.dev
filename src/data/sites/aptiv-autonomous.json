@@ -1,0 +1,25 @@
+{
+  "name": "Aptiv Autonomous Mobility",
+  "url": "https://www.aptiv.com/autonomous-mobility",
+  "category_id": "ai-automotive",
+  "features": [
+    "V2X communication",
+    "Connected vehicle systems",
+    "Fleet management",
+    "Safety analytics"
+  ],
+  "pricing": "Custom",
+  "rating": 4.7,
+  "description": "Aptiv's autonomous mobility platform integrates V2X communication and connected vehicle systems with AI-powered analytics for comprehensive fleet management and safety.",
+  "pros": [
+    "Advanced connectivity",
+    "Fleet optimization",
+    "Safety focus",
+    "Scalable solution"
+  ],
+  "cons": [
+    "Custom pricing model",
+    "Complex deployment",
+    "Infrastructure requirements"
+  ]
+}

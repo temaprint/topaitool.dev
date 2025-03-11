@@ -1,0 +1,25 @@
+{
+  "name": "Tableau Desktop",
+  "url": "https://www.tableau.com",
+  "category_id": "ai-data-analysis",
+  "features": [
+    "Live visual analytics",
+    "Interactive dashboards",
+    "Drag-and-drop interface",
+    "Multiple data sources"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.8,
+  "description": "Tableau Desktop specializes in live visual analytics and interactive dashboards, supporting a wide range of data sources with intuitive drag-and-drop functionality for creating insightful visualizations.",
+  "pros": [
+    "Powerful visualization tools",
+    "Intuitive interface",
+    "Extensive data support",
+    "Strong community"
+  ],
+  "cons": [
+    "Expensive licensing",
+    "Resource intensive",
+    "Steep learning curve"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "McAfee AI Threat Detection",
+  "url": "https://www.mcafee.com/enterprise/ai-security",
+  "category_id": "ai-cybersecurity",
+  "features": [
+    "Predictive analytics",
+    "Adaptive learning",
+    "Pattern detection",
+    "Real-time alerts"
+  ],
+  "pricing": "Subscription",
+  "rating": 4.7,
+  "description": "McAfee AI Threat Detection offers predictive analytics and adaptive learning to enhance cybersecurity defenses, detecting unusual patterns across vast datasets with real-time alerts.",
+  "pros": [
+    "Strong predictive capabilities",
+    "Real-time monitoring",
+    "Adaptive defense system",
+    "Enterprise integration"
+  ],
+  "cons": [
+    "Premium pricing",
+    "Resource requirements",
+    "Complex configuration"
+  ]
+}
