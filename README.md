@@ -1,6 +1,8 @@
-# Project topaitool.dev
+# topaitool.dev
+Explore the best AI-powered tools for creators and developers
 
-## Overview
+![](public/topaitool.png)
+
 Project [topaitool.dev](https://topaitool.dev/) is a web application built with [Astro](https://astro.build/) and styled using [Tailwind CSS](https://tailwindcss.com/). It leverages TypeScript for type safety and modern development practices to ensure scalability and maintainability.
 
 
