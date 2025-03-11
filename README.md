@@ -1,7 +1,9 @@
 # Project topaitool.dev
 
 ## Overview
-Project topaitool.dev is a web application built with [Astro](https://astro.build/) and styled using [Tailwind CSS](https://tailwindcss.com/). It leverages TypeScript for type safety and modern development practices to ensure scalability and maintainability.
+Project [topaitool.dev](https://topaitool.dev/) is a web application built with [Astro](https://astro.build/) and styled using [Tailwind CSS](https://tailwindcss.com/). It leverages TypeScript for type safety and modern development practices to ensure scalability and maintainability.
+
+
 
 ## Features
 - Astro framework for static site generation.
@@ -15,7 +17,7 @@ To get started with Project Bolt SB1, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/temaprint/topaitool.dev.git
-   cd project-bolt-sb1
+   cd topaitool.dev
    ```
 2. Install dependencies:
    ```sh
